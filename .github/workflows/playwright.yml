@@ -20,7 +20,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4.1.1
       - name: Use Node.js
         uses: actions/setup-node@v3
         with:
@@ -32,11 +32,9 @@ jobs:
           npm ci
           npx playwright install 
       
-      - uses: GabrielBB/xvfb-action 
-        with: 
-          name: Run Playwright Tests 
-          run: |
-            xvfb-run npx playwright test
+      - name: Run Playwright Tests 
+        run: |
+          xvfb-run npx playwright test
 
       - uses: actions/upload-artifact@v3
         with:
