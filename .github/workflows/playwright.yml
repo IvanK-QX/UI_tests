@@ -30,7 +30,7 @@ jobs:
       - name: Install dependencies
         run: | 
           npm ci
-          npx playwright install 
+          xvfb-run npx playwright test
 
       - name: Run Playwright Tests 
         run: |

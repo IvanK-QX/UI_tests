@@ -19,7 +19,7 @@ const config: PlaywrightTestConfig = {
     ['allure-playwright']
   ],
   use: {
-    headless: true,
+    headless: false,
     viewport: { width: 1280, height: 720 },
     ignoreHTTPSErrors: true,
     video: 'retain-on-failure',
