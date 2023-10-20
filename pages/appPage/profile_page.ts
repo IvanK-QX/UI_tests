@@ -1,5 +1,5 @@
 import { Locator, Page } from "@playwright/test"
-import { apiUrl } from "../../../Api_tests/utils/apiUrl"
+import { apiUrl } from "../../utils/apiUrl"
 
 export class AppProfilePage {
     page: Page
