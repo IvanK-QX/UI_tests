@@ -7,9 +7,17 @@ import { ApiStreamPage } from "./apiPages/stream_page"
 import { ApiGiftsPage } from "./apiPages/gifts_page"
 import { ApiBlockedPage } from "./apiPages/blocked_page"
 import { ApiFollowingPage } from "./apiPages/following_page"
+import { ApiPayoutPage } from "./apiPages/payout_page"
 import { ApiClientSettingsPage } from "./apiPages/clientSettings_page"
+import { ApiSalaryRulesPage } from "./apiPages/salaryRules_page"
+import { ApiModeratorPage } from "./apiPages/moderator_page"
 import { ApiReferalPage } from "./apiPages/referal_page"
+import { ApiModerationsPage } from "./apiPages/moderations_page"
 import { ApiReportsPage } from "./apiPages/reports_page"
+import { ApiNotificationsContentPage } from "./apiPages/notificationsContent_page"
+import { ApiInternalPage } from "./apiPages/internal_page"
+import { ApiOtherPage } from "./apiPages/other_functionality_page"
+import { Api3002Page } from "./apiPages/3002_page"
 import { ApiMessage3003Page } from "./apiPages/message_page"
 
 export class Api {
@@ -22,9 +30,17 @@ export class Api {
     giftsPage: ApiGiftsPage
     blockedPage: ApiBlockedPage
     followingPage: ApiFollowingPage
+    payoutPage: ApiPayoutPage
     clientSettingsPage: ApiClientSettingsPage
+    selaryRulesPage: ApiSalaryRulesPage
+    moderatorPage: ApiModeratorPage
     referalPage: ApiReferalPage
+    moderationsPage: ApiModerationsPage
     reportPage: ApiReportsPage
+    notificationsContentPage: ApiNotificationsContentPage
+    internalPage: ApiInternalPage
+    otherTestsPage: ApiOtherPage
+    agora3002Page: Api3002Page
     messagePage: ApiMessage3003Page
 
     constructor(apiContext: APIRequestContext) {
@@ -35,11 +51,19 @@ export class Api {
         this.deleteAccountPage = new ApiDeleteAccountPage(apiContext)
         this.streamsPage = new ApiStreamPage(apiContext)
         this.blockedPage = new ApiBlockedPage(apiContext)
+        this.payoutPage = new ApiPayoutPage(apiContext)
         this.giftsPage = new ApiGiftsPage(apiContext)
         this.followingPage = new ApiFollowingPage(apiContext)
         this.clientSettingsPage = new ApiClientSettingsPage(apiContext)
+        this.selaryRulesPage = new ApiSalaryRulesPage(apiContext)
+        this.moderatorPage = new ApiModeratorPage(apiContext)
         this.referalPage = new ApiReferalPage(apiContext)
+        this.moderationsPage = new ApiModerationsPage(apiContext)
         this.reportPage = new ApiReportsPage(apiContext)
+        this.notificationsContentPage = new ApiNotificationsContentPage(apiContext)
+        this.internalPage = new ApiInternalPage(apiContext)
+        this.otherTestsPage = new ApiOtherPage(apiContext)
+        this.agora3002Page = new Api3002Page(apiContext)
         this.messagePage = new ApiMessage3003Page(apiContext)
     }
 }

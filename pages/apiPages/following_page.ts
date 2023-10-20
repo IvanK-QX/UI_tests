@@ -1,5 +1,5 @@
 import { APIRequestContext, expect, request } from "@playwright/test"
-import { Headers } from "../../../Api_tests/utils/headers"
+import { Headers } from "../../utils/headers"
 
 export class ApiFollowingPage {
     apiContext: APIRequestContext

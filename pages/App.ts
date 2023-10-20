@@ -8,7 +8,6 @@ import { AppEditProfilePage } from "./appPage/editProfile_page"
 import { AppChatPage } from "./appPage/chat_page"
 import { AppBlockedPage } from "./appPage/blocked_page"
 import { AppProfilePage } from "./appPage/profile_page"
-
 export class App {
     page: Page
     loginPage: AppLoginPage
