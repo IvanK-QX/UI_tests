@@ -2,13 +2,23 @@
   "6d6f3d7f43fc2f67f4b568e4f6f6d459:5bd835b0d6b1d4ada3b9f0db936e82c8" : {
     "statistic" : {
       "failed" : 4,
-      "broken" : 2,
+      "broken" : 3,
       "skipped" : 0,
       "passed" : 1,
       "unknown" : 0,
-      "total" : 7
+      "total" : 8
     },
     "items" : [ {
+      "uid" : "f121ec7895b66c5",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/9//#testresult/f121ec7895b66c5",
+      "status" : "broken",
+      "statusDetails" : "Test timeout of 120000ms exceeded while running \"beforeEach\" hook.",
+      "time" : {
+        "start" : 1697800508771,
+        "stop" : 1697800700838,
+        "duration" : 192067
+      }
+    }, {
       "uid" : "8ec1d874366dd233",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/9//#testresult/8ec1d874366dd233",
       "status" : "broken",
@@ -82,13 +92,23 @@
   "a9066149f0ef714b9ec2c4b374f58568:5bd835b0d6b1d4ada3b9f0db936e82c8" : {
     "statistic" : {
       "failed" : 4,
-      "broken" : 2,
+      "broken" : 3,
       "skipped" : 0,
       "passed" : 1,
       "unknown" : 0,
-      "total" : 7
+      "total" : 8
     },
     "items" : [ {
+      "uid" : "bbd27ef2e46d955b",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/9//#testresult/bbd27ef2e46d955b",
+      "status" : "broken",
+      "statusDetails" : "Test timeout of 120000ms exceeded while running \"beforeEach\" hook.",
+      "time" : {
+        "start" : 1697800509364,
+        "stop" : 1697800701391,
+        "duration" : 192027
+      }
+    }, {
       "uid" : "47a50173b0f59d6f",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/9//#testresult/47a50173b0f59d6f",
       "status" : "broken",
@@ -162,13 +182,23 @@
   "4908de1cd7b920a1ce6a9da0399443b8:5bd835b0d6b1d4ada3b9f0db936e82c8" : {
     "statistic" : {
       "failed" : 4,
-      "broken" : 2,
+      "broken" : 3,
       "skipped" : 0,
       "passed" : 1,
       "unknown" : 0,
-      "total" : 7
+      "total" : 8
     },
     "items" : [ {
+      "uid" : "8defcbf0dd610f56",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/9//#testresult/8defcbf0dd610f56",
+      "status" : "broken",
+      "statusDetails" : "Test timeout of 120000ms exceeded while running \"beforeEach\" hook.",
+      "time" : {
+        "start" : 1697800509585,
+        "stop" : 1697800700210,
+        "duration" : 190625
+      }
+    }, {
       "uid" : "2518486a7a6f27c0",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/9//#testresult/2518486a7a6f27c0",
       "status" : "broken",
@@ -242,13 +272,23 @@
   "926a97bb627596c2b998f5c1162eecb5:5bd835b0d6b1d4ada3b9f0db936e82c8" : {
     "statistic" : {
       "failed" : 4,
-      "broken" : 2,
+      "broken" : 3,
       "skipped" : 0,
       "passed" : 1,
       "unknown" : 0,
-      "total" : 7
+      "total" : 8
     },
     "items" : [ {
+      "uid" : "b0144035b4a19825",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/9//#testresult/b0144035b4a19825",
+      "status" : "broken",
+      "statusDetails" : "Test timeout of 120000ms exceeded while running \"beforeEach\" hook.",
+      "time" : {
+        "start" : 1697800508685,
+        "stop" : 1697800693790,
+        "duration" : 185105
+      }
+    }, {
       "uid" : "5390f0dd2cd50a2c",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/9//#testresult/5390f0dd2cd50a2c",
       "status" : "broken",
@@ -324,11 +364,20 @@
       "failed" : 4,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 3,
+      "passed" : 4,
       "unknown" : 0,
-      "total" : 7
+      "total" : 8
     },
     "items" : [ {
+      "uid" : "d218916a72b3fed9",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/9//#testresult/d218916a72b3fed9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1697800694431,
+        "stop" : 1697800813506,
+        "duration" : 119075
+      }
+    }, {
       "uid" : "79d0166de58a3477",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/9//#testresult/79d0166de58a3477",
       "status" : "passed",
@@ -400,13 +449,23 @@
   "798590bb7cc7b0da13030197e1b8b168:5bd835b0d6b1d4ada3b9f0db936e82c8" : {
     "statistic" : {
       "failed" : 4,
-      "broken" : 2,
+      "broken" : 3,
       "skipped" : 0,
       "passed" : 1,
       "unknown" : 0,
-      "total" : 7
+      "total" : 8
     },
     "items" : [ {
+      "uid" : "1da9c571e4b19f72",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/9//#testresult/1da9c571e4b19f72",
+      "status" : "broken",
+      "statusDetails" : "Test timeout of 120000ms exceeded while running \"beforeEach\" hook.",
+      "time" : {
+        "start" : 1697800497424,
+        "stop" : 1697800689223,
+        "duration" : 191799
+      }
+    }, {
       "uid" : "9434ca677ff32f78",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/9//#testresult/9434ca677ff32f78",
       "status" : "broken",
@@ -480,13 +539,23 @@
   "3a4e66bd81eba05631f420c312082384:5bd835b0d6b1d4ada3b9f0db936e82c8" : {
     "statistic" : {
       "failed" : 4,
-      "broken" : 2,
+      "broken" : 3,
       "skipped" : 0,
       "passed" : 1,
       "unknown" : 0,
-      "total" : 7
+      "total" : 8
     },
     "items" : [ {
+      "uid" : "9e4b2e1304efff55",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/9//#testresult/9e4b2e1304efff55",
+      "status" : "broken",
+      "statusDetails" : "Test timeout of 120000ms exceeded while running \"beforeEach\" hook.",
+      "time" : {
+        "start" : 1697800516609,
+        "stop" : 1697800688564,
+        "duration" : 171955
+      }
+    }, {
       "uid" : "d5a1dd5e1b478969",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/9//#testresult/d5a1dd5e1b478969",
       "status" : "broken",

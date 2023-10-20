@@ -5,79 +5,79 @@
     "children" : [ {
       "name" : "Test timeout of 120000ms exceeded while running \"beforeEach\" hook.",
       "children" : [ {
-        "name" : "Profile - Buy Coins",
-        "uid" : "47a50173b0f59d6f",
-        "parentUid" : "0add4a86d62f10485e427a06f4fb17a4",
-        "status" : "broken",
-        "time" : {
-          "start" : 1697799012034,
-          "stop" : 1697799206800,
-          "duration" : 194766
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "chromium" ]
-      }, {
-        "name" : "Profile - Edit Profile e2e",
-        "uid" : "d5a1dd5e1b478969",
-        "parentUid" : "0add4a86d62f10485e427a06f4fb17a4",
-        "status" : "broken",
-        "time" : {
-          "start" : 1697799016195,
-          "stop" : 1697799213957,
-          "duration" : 197762
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "chromium" ]
-      }, {
-        "name" : "Profile - Edit Profile",
-        "uid" : "2518486a7a6f27c0",
-        "parentUid" : "0add4a86d62f10485e427a06f4fb17a4",
-        "status" : "broken",
-        "time" : {
-          "start" : 1697799016689,
-          "stop" : 1697799217582,
-          "duration" : 200893
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "chromium" ]
-      }, {
-        "name" : "Profile - Redeem Cash",
-        "uid" : "8ec1d874366dd233",
-        "parentUid" : "0add4a86d62f10485e427a06f4fb17a4",
-        "status" : "broken",
-        "time" : {
-          "start" : 1697799025616,
-          "stop" : 1697799222056,
-          "duration" : 196440
-        },
-        "flaky" : false,
-        "newFailed" : false,
-        "parameters" : [ "chromium" ]
-      }, {
         "name" : "Profile - Start Stream",
-        "uid" : "9434ca677ff32f78",
+        "uid" : "1da9c571e4b19f72",
         "parentUid" : "0add4a86d62f10485e427a06f4fb17a4",
         "status" : "broken",
         "time" : {
-          "start" : 1697799031926,
-          "stop" : 1697799223297,
-          "duration" : 191371
+          "start" : 1697800497424,
+          "stop" : 1697800689223,
+          "duration" : 191799
         },
         "flaky" : false,
         "newFailed" : false,
         "parameters" : [ "chromium" ]
       }, {
         "name" : "Profile - My Info",
-        "uid" : "5390f0dd2cd50a2c",
+        "uid" : "b0144035b4a19825",
         "parentUid" : "0add4a86d62f10485e427a06f4fb17a4",
         "status" : "broken",
         "time" : {
-          "start" : 1697799032015,
-          "stop" : 1697799226042,
-          "duration" : 194027
+          "start" : 1697800508685,
+          "stop" : 1697800693790,
+          "duration" : 185105
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Redeem Cash",
+        "uid" : "f121ec7895b66c5",
+        "parentUid" : "0add4a86d62f10485e427a06f4fb17a4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1697800508771,
+          "stop" : 1697800700838,
+          "duration" : 192067
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Buy Coins",
+        "uid" : "bbd27ef2e46d955b",
+        "parentUid" : "0add4a86d62f10485e427a06f4fb17a4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1697800509364,
+          "stop" : 1697800701391,
+          "duration" : 192027
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Edit Profile",
+        "uid" : "8defcbf0dd610f56",
+        "parentUid" : "0add4a86d62f10485e427a06f4fb17a4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1697800509585,
+          "stop" : 1697800700210,
+          "duration" : 190625
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Edit Profile e2e",
+        "uid" : "9e4b2e1304efff55",
+        "parentUid" : "0add4a86d62f10485e427a06f4fb17a4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1697800516609,
+          "stop" : 1697800688564,
+          "duration" : 171955
         },
         "flaky" : false,
         "newFailed" : false,
