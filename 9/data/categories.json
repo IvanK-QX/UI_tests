@@ -1,0 +1,91 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Test timeout of 120000ms exceeded while running \"beforeEach\" hook.",
+      "children" : [ {
+        "name" : "Profile - Buy Coins",
+        "uid" : "47a50173b0f59d6f",
+        "parentUid" : "0add4a86d62f10485e427a06f4fb17a4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1697799012034,
+          "stop" : 1697799206800,
+          "duration" : 194766
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Edit Profile e2e",
+        "uid" : "d5a1dd5e1b478969",
+        "parentUid" : "0add4a86d62f10485e427a06f4fb17a4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1697799016195,
+          "stop" : 1697799213957,
+          "duration" : 197762
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Edit Profile",
+        "uid" : "2518486a7a6f27c0",
+        "parentUid" : "0add4a86d62f10485e427a06f4fb17a4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1697799016689,
+          "stop" : 1697799217582,
+          "duration" : 200893
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Redeem Cash",
+        "uid" : "8ec1d874366dd233",
+        "parentUid" : "0add4a86d62f10485e427a06f4fb17a4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1697799025616,
+          "stop" : 1697799222056,
+          "duration" : 196440
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Start Stream",
+        "uid" : "9434ca677ff32f78",
+        "parentUid" : "0add4a86d62f10485e427a06f4fb17a4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1697799031926,
+          "stop" : 1697799223297,
+          "duration" : 191371
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - My Info",
+        "uid" : "5390f0dd2cd50a2c",
+        "parentUid" : "0add4a86d62f10485e427a06f4fb17a4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1697799032015,
+          "stop" : 1697799226042,
+          "duration" : 194027
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "0add4a86d62f10485e427a06f4fb17a4"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}
