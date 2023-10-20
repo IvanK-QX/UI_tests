@@ -32,7 +32,8 @@ jobs:
           npm ci
           npx playwright install 
 
-      - name: Run Playwright Tests 
+      - uses: GabrielBB/xvfb-action 
+        name: Run Playwright Tests 
         run: |
           xvfb-run npx playwright test
 
