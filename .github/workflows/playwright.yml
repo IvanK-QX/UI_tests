@@ -31,11 +31,12 @@ jobs:
         run: | 
           npm ci
           npx playwright install 
-
+      
       - uses: GabrielBB/xvfb-action 
-        name: Run Playwright Tests 
-        run: |
-          xvfb-run npx playwright test
+        with: 
+          name: Run Playwright Tests 
+          run: |
+            xvfb-run npx playwright test
 
       - uses: actions/upload-artifact@v3
         with:
