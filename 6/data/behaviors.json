@@ -1,95 +1,95 @@
 {
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "children" : [ {
-    "name" : "Profile - Start Stream",
-    "uid" : "ca66b4789f438acf",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
-    "time" : {
-      "start" : 1697789801555,
-      "stop" : 1697789801947,
-      "duration" : 392
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "chromium" ]
-  }, {
     "name" : "Profile - My Info",
-    "uid" : "6b2d033da23e32f4",
+    "uid" : "6735f1c657ebfb81",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1697789801604,
-      "stop" : 1697789802117,
-      "duration" : 513
+      "start" : 1697790114634,
+      "stop" : 1697790114936,
+      "duration" : 302
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chromium" ]
   }, {
-    "name" : "Profile - Redeem Cash",
-    "uid" : "954572b02af744fe",
+    "name" : "Profile - Start Stream",
+    "uid" : "79f89ee21f4defa7",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1697789801907,
-      "stop" : 1697789802352,
-      "duration" : 445
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "chromium" ]
-  }, {
-    "name" : "Profile - Edit Profile",
-    "uid" : "7f36cda8111e03e5",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
-    "time" : {
-      "start" : 1697789801968,
-      "stop" : 1697789802415,
-      "duration" : 447
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "chromium" ]
-  }, {
-    "name" : "Profile - Edit Profile e2e",
-    "uid" : "c009e3240d58e663",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
-    "time" : {
-      "start" : 1697789802061,
-      "stop" : 1697789802457,
-      "duration" : 396
+      "start" : 1697790115066,
+      "stop" : 1697790115388,
+      "duration" : 322
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chromium" ]
   }, {
     "name" : "Profile - Buy Coins",
-    "uid" : "9e20a04a1830e732",
+    "uid" : "a8050f9c00bfb02b",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1697789802273,
-      "stop" : 1697789802564,
-      "duration" : 291
+      "start" : 1697790115122,
+      "stop" : 1697790115485,
+      "duration" : 363
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chromium" ]
+  }, {
+    "name" : "Profile - Redeem Cash",
+    "uid" : "88157167befc65ab",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1697790115354,
+      "stop" : 1697790115776,
+      "duration" : 422
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chromium" ]
+  }, {
+    "name" : "Profile - Edit Profile",
+    "uid" : "ca10b4bed182f5c5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1697790115463,
+      "stop" : 1697790115798,
+      "duration" : 335
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chromium" ]
+  }, {
+    "name" : "Profile - Edit Profile e2e",
+    "uid" : "d5b9b866ad98ff7b",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1697790115496,
+      "stop" : 1697790115754,
+      "duration" : 258
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chromium" ]
   }, {
     "name" : "Star sand Join Stream",
-    "uid" : "d0a54f1599869228",
+    "uid" : "148641a99f086a85",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1697789807591,
-      "stop" : 1697789807694,
+      "start" : 1697790120179,
+      "stop" : 1697790120282,
       "duration" : 103
     },
     "flaky" : false,
-    "newFailed" : true,
+    "newFailed" : false,
     "parameters" : [ "chromium" ]
   } ],
   "name" : "behaviors"
