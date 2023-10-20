@@ -1,92 +1,92 @@
 {
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "children" : [ {
-    "name" : "Profile - Edit Profile e2e",
-    "uid" : "ff7fe0ae3a0bb62d",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
-    "time" : {
-      "start" : 1697790247189,
-      "stop" : 1697790247532,
-      "duration" : 343
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "chromium" ]
-  }, {
-    "name" : "Profile - Redeem Cash",
-    "uid" : "e45c8728a958ee8c",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
-    "time" : {
-      "start" : 1697790247232,
-      "stop" : 1697790247669,
-      "duration" : 437
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "chromium" ]
-  }, {
     "name" : "Profile - My Info",
-    "uid" : "efea02f87ee6be66",
+    "uid" : "5965a6e8ec1c633",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1697790247282,
-      "stop" : 1697790247729,
-      "duration" : 447
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "chromium" ]
-  }, {
-    "name" : "Profile - Edit Profile",
-    "uid" : "cb685f454940ee19",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
-    "time" : {
-      "start" : 1697790247320,
-      "stop" : 1697790247803,
-      "duration" : 483
-    },
-    "flaky" : false,
-    "newFailed" : false,
-    "parameters" : [ "chromium" ]
-  }, {
-    "name" : "Profile - Start Stream",
-    "uid" : "f8ce46fd87c0892",
-    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
-    "status" : "failed",
-    "time" : {
-      "start" : 1697790247359,
-      "stop" : 1697790247830,
-      "duration" : 471
+      "start" : 1697798349492,
+      "stop" : 1697798349933,
+      "duration" : 441
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chromium" ]
   }, {
     "name" : "Profile - Buy Coins",
-    "uid" : "e2480e2c32fbf1b4",
+    "uid" : "15d47843bc578cd7",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1697790247741,
-      "stop" : 1697790247969,
-      "duration" : 228
+      "start" : 1697798349504,
+      "stop" : 1697798350017,
+      "duration" : 513
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chromium" ]
+  }, {
+    "name" : "Profile - Edit Profile e2e",
+    "uid" : "40ffe952421f032f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1697798349524,
+      "stop" : 1697798349966,
+      "duration" : 442
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chromium" ]
+  }, {
+    "name" : "Profile - Edit Profile",
+    "uid" : "eaf8f51dab8348da",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1697798349632,
+      "stop" : 1697798350144,
+      "duration" : 512
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chromium" ]
+  }, {
+    "name" : "Profile - Redeem Cash",
+    "uid" : "4248a914ab30e4cb",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1697798349734,
+      "stop" : 1697798350165,
+      "duration" : 431
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chromium" ]
+  }, {
+    "name" : "Profile - Start Stream",
+    "uid" : "965e2871ab91b143",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1697798350088,
+      "stop" : 1697798350340,
+      "duration" : 252
     },
     "flaky" : false,
     "newFailed" : false,
     "parameters" : [ "chromium" ]
   }, {
     "name" : "Star sand Join Stream",
-    "uid" : "c098d53f61c9e9b5",
+    "uid" : "afdd5cc309e5666d",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "failed",
     "time" : {
-      "start" : 1697790252378,
-      "stop" : 1697790252483,
-      "duration" : 105
+      "start" : 1697798354929,
+      "stop" : 1697798355021,
+      "duration" : 92
     },
     "flaky" : false,
     "newFailed" : false,
