@@ -1,0 +1,104 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "browserType.launch: Executable doesn't exist at /home/runner/.cache/ms-playwright/chromium-1084/chrome-linux/chrome\n╔═════════════════════════════════════════════════════════════════════════╗\n║ Looks like Playwright Test or Playwright was just installed or updated. ║\n║ Please run the following command to download new browsers:              ║\n║                                                                         ║\n║     npx playwright install                                              ║\n║                                                                         ║\n║ <3 Playwright Team                                                      ║\n╚═════════════════════════════════════════════════════════════════════════╝",
+      "children" : [ {
+        "name" : "Profile - Start Stream",
+        "uid" : "ca66b4789f438acf",
+        "parentUid" : "7e7bd024ecaa87f7ab459503df0543f6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1697789801555,
+          "stop" : 1697789801947,
+          "duration" : 392
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - My Info",
+        "uid" : "6b2d033da23e32f4",
+        "parentUid" : "7e7bd024ecaa87f7ab459503df0543f6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1697789801604,
+          "stop" : 1697789802117,
+          "duration" : 513
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Redeem Cash",
+        "uid" : "954572b02af744fe",
+        "parentUid" : "7e7bd024ecaa87f7ab459503df0543f6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1697789801907,
+          "stop" : 1697789802352,
+          "duration" : 445
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Edit Profile",
+        "uid" : "7f36cda8111e03e5",
+        "parentUid" : "7e7bd024ecaa87f7ab459503df0543f6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1697789801968,
+          "stop" : 1697789802415,
+          "duration" : 447
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Edit Profile e2e",
+        "uid" : "c009e3240d58e663",
+        "parentUid" : "7e7bd024ecaa87f7ab459503df0543f6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1697789802061,
+          "stop" : 1697789802457,
+          "duration" : 396
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Buy Coins",
+        "uid" : "9e20a04a1830e732",
+        "parentUid" : "7e7bd024ecaa87f7ab459503df0543f6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1697789802273,
+          "stop" : 1697789802564,
+          "duration" : 291
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Star sand Join Stream",
+        "uid" : "d0a54f1599869228",
+        "parentUid" : "7e7bd024ecaa87f7ab459503df0543f6",
+        "status" : "failed",
+        "time" : {
+          "start" : 1697789807591,
+          "stop" : 1697789807694,
+          "duration" : 103
+        },
+        "flaky" : false,
+        "newFailed" : true,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "7e7bd024ecaa87f7ab459503df0543f6"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}
