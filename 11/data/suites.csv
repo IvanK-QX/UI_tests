@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Oct 21 01:42:49 GMT 2023","Sat Oct 21 01:43:38 GMT 2023","48558","chromium","ui_profile_test.spec.ts","UI - Profile Tests","","","Profile - Edit Profile e2e",""
+"passed","Sat Oct 21 01:42:32 GMT 2023","Sat Oct 21 01:44:19 GMT 2023","107239","chromium","ui_tests.spec.ts","UI Tests","","","Star sand Join Stream",""
+"passed","Sat Oct 21 01:40:38 GMT 2023","Sat Oct 21 01:42:32 GMT 2023","114211","chromium","ui_profile_test.spec.ts","UI - Profile Tests","","","Profile - My Info",""
+"passed","Sat Oct 21 01:40:38 GMT 2023","Sat Oct 21 01:42:37 GMT 2023","118721","chromium","ui_profile_test.spec.ts","UI - Profile Tests","","","Profile - Edit Profile",""
+"passed","Sat Oct 21 01:40:38 GMT 2023","Sat Oct 21 01:42:36 GMT 2023","117917","chromium","ui_profile_test.spec.ts","UI - Profile Tests","","","Profile - Redeem Cash",""
+"passed","Sat Oct 21 01:40:38 GMT 2023","Sat Oct 21 01:42:35 GMT 2023","116862","chromium","ui_profile_test.spec.ts","UI - Profile Tests","","","Profile - Buy Coins",""
+"passed","Sat Oct 21 01:40:38 GMT 2023","Sat Oct 21 01:42:36 GMT 2023","118529","chromium","ui_profile_test.spec.ts","UI - Profile Tests","","","Profile - Start Stream",""

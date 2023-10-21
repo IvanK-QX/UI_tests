@@ -1,0 +1,137 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "fv-az484-617",
+    "children" : [ {
+      "name" : "fv-az484-617-4659-playwright-worker-2",
+      "children" : [ {
+        "name" : "Profile - Start Stream",
+        "uid" : "c3da729e726a32b0",
+        "parentUid" : "09b2261b3602fb7c666ef1719411de88",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697852438436,
+          "stop" : 1697852556965,
+          "duration" : 118529
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "09b2261b3602fb7c666ef1719411de88"
+    }, {
+      "name" : "fv-az484-617-4659-playwright-worker-3",
+      "children" : [ {
+        "name" : "Profile - Edit Profile",
+        "uid" : "d78ee6ff669e3c45",
+        "parentUid" : "b3af15cbdf1d0224928245cd7722de8f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697852438525,
+          "stop" : 1697852557246,
+          "duration" : 118721
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "b3af15cbdf1d0224928245cd7722de8f"
+    }, {
+      "name" : "fv-az484-617-4659-playwright-worker-1",
+      "children" : [ {
+        "name" : "Profile - Edit Profile e2e",
+        "uid" : "aa6e9e47153a0f17",
+        "parentUid" : "496360d00c7928559dbb15c9ed40a498",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697852569919,
+          "stop" : 1697852618477,
+          "duration" : 48558
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Buy Coins",
+        "uid" : "96ee882100e0ff02",
+        "parentUid" : "496360d00c7928559dbb15c9ed40a498",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697852438393,
+          "stop" : 1697852555255,
+          "duration" : 116862
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "496360d00c7928559dbb15c9ed40a498"
+    }, {
+      "name" : "fv-az484-617-4659-playwright-worker-5",
+      "children" : [ {
+        "name" : "Profile - Edit Profile e2e",
+        "uid" : "4cd631edb7a48112",
+        "parentUid" : "bf6fd37e370cb8ca2a3ec15b60d8ad65",
+        "status" : "broken",
+        "time" : {
+          "start" : 1697852438527,
+          "stop" : 1697852566928,
+          "duration" : 128401
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "bf6fd37e370cb8ca2a3ec15b60d8ad65"
+    }, {
+      "name" : "fv-az484-617-4659-playwright-worker-4",
+      "children" : [ {
+        "name" : "Profile - Redeem Cash",
+        "uid" : "5f3c5bc8d10ba76d",
+        "parentUid" : "76b70e59f45658b2477cb9b4abe68a70",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697852438440,
+          "stop" : 1697852556357,
+          "duration" : 117917
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "76b70e59f45658b2477cb9b4abe68a70"
+    }, {
+      "name" : "fv-az484-617-4659-playwright-worker-0",
+      "children" : [ {
+        "name" : "Star sand Join Stream",
+        "uid" : "8a7f98b2d42e8946",
+        "parentUid" : "96acb5c5386def3d058f9331bc621c56",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697852552596,
+          "stop" : 1697852659835,
+          "duration" : 107239
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - My Info",
+        "uid" : "d043ec453affc38b",
+        "parentUid" : "96acb5c5386def3d058f9331bc621c56",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697852438355,
+          "stop" : 1697852552566,
+          "duration" : 114211
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "96acb5c5386def3d058f9331bc621c56"
+    } ],
+    "uid" : "c6693728310526d2bb4d72e679460411"
+  } ],
+  "name" : "timeline"
+}
