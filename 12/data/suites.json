@@ -1,0 +1,116 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "chromium",
+    "children" : [ {
+      "name" : "ui_profile_test.spec.ts",
+      "children" : [ {
+        "name" : "UI - Profile Tests",
+        "children" : [ {
+          "name" : "Profile - Redeem Cash",
+          "uid" : "ca4e16be1498dcea",
+          "parentUid" : "5a846286130a6de52fe28685493a3078",
+          "status" : "broken",
+          "time" : {
+            "start" : 1697939540306,
+            "stop" : 1697939693500,
+            "duration" : 153194
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "chromium" ]
+        }, {
+          "name" : "Profile - Buy Coins",
+          "uid" : "a803225aaef9dfdb",
+          "parentUid" : "5a846286130a6de52fe28685493a3078",
+          "status" : "broken",
+          "time" : {
+            "start" : 1697939540531,
+            "stop" : 1697939703769,
+            "duration" : 163238
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "chromium" ]
+        }, {
+          "name" : "Profile - My Info",
+          "uid" : "4c2b9ad828a4ef58",
+          "parentUid" : "5a846286130a6de52fe28685493a3078",
+          "status" : "broken",
+          "time" : {
+            "start" : 1697939545233,
+            "stop" : 1697939699360,
+            "duration" : 154127
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "chromium" ]
+        }, {
+          "name" : "Profile - Edit Profile",
+          "uid" : "3152c40ec282987",
+          "parentUid" : "5a846286130a6de52fe28685493a3078",
+          "status" : "broken",
+          "time" : {
+            "start" : 1697939546108,
+            "stop" : 1697939709730,
+            "duration" : 163622
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "chromium" ]
+        }, {
+          "name" : "Profile - Start Stream",
+          "uid" : "f4f02cce444bd014",
+          "parentUid" : "5a846286130a6de52fe28685493a3078",
+          "status" : "broken",
+          "time" : {
+            "start" : 1697939546628,
+            "stop" : 1697939706316,
+            "duration" : 159688
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "chromium" ]
+        }, {
+          "name" : "Profile - Edit Profile e2e",
+          "uid" : "a35a67cc60bb0f93",
+          "parentUid" : "5a846286130a6de52fe28685493a3078",
+          "status" : "broken",
+          "time" : {
+            "start" : 1697939562387,
+            "stop" : 1697939713999,
+            "duration" : 151612
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "chromium" ]
+        } ],
+        "uid" : "5a846286130a6de52fe28685493a3078"
+      } ],
+      "uid" : "947c59c49c214710703123558ef04cdc"
+    }, {
+      "name" : "ui_tests.spec.ts",
+      "children" : [ {
+        "name" : "UI Tests",
+        "children" : [ {
+          "name" : "Star sand Join Stream",
+          "uid" : "715e394a33eb57ca",
+          "parentUid" : "f97acfccb0284ff6d55d030a1bf38016",
+          "status" : "passed",
+          "time" : {
+            "start" : 1697939700163,
+            "stop" : 1697939796808,
+            "duration" : 96645
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "chromium" ]
+        } ],
+        "uid" : "f97acfccb0284ff6d55d030a1bf38016"
+      } ],
+      "uid" : "8a841ae01d229f383525e1ea59c56144"
+    } ],
+    "uid" : "36c900977e1d8b81a2c6893cc82bfc01"
+  } ],
+  "name" : "suites"
+}
