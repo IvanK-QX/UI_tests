@@ -4,11 +4,20 @@
       "failed" : 4,
       "broken" : 4,
       "skipped" : 0,
-      "passed" : 3,
+      "passed" : 4,
       "unknown" : 0,
-      "total" : 11
+      "total" : 12
     },
     "items" : [ {
+      "uid" : "ec1978422233eeed",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/13//#testresult/ec1978422233eeed",
+      "status" : "passed",
+      "time" : {
+        "start" : 1698025351534,
+        "stop" : 1698025465237,
+        "duration" : 113703
+      }
+    }, {
       "uid" : "ca4e16be1498dcea",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/12//#testresult/ca4e16be1498dcea",
       "status" : "broken",
@@ -122,11 +131,20 @@
       "failed" : 4,
       "broken" : 4,
       "skipped" : 0,
-      "passed" : 3,
+      "passed" : 4,
       "unknown" : 0,
-      "total" : 11
+      "total" : 12
     },
     "items" : [ {
+      "uid" : "7477847c9dfed16a",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/13//#testresult/7477847c9dfed16a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1698025351540,
+        "stop" : 1698025469722,
+        "duration" : 118182
+      }
+    }, {
       "uid" : "a803225aaef9dfdb",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/12//#testresult/a803225aaef9dfdb",
       "status" : "broken",
@@ -240,11 +258,20 @@
       "failed" : 4,
       "broken" : 4,
       "skipped" : 0,
-      "passed" : 3,
+      "passed" : 4,
       "unknown" : 0,
-      "total" : 11
+      "total" : 12
     },
     "items" : [ {
+      "uid" : "7167d636f51e9ff8",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/13//#testresult/7167d636f51e9ff8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1698025351413,
+        "stop" : 1698025464837,
+        "duration" : 113424
+      }
+    }, {
       "uid" : "3152c40ec282987",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/12//#testresult/3152c40ec282987",
       "status" : "broken",
@@ -358,11 +385,20 @@
       "failed" : 4,
       "broken" : 4,
       "skipped" : 0,
-      "passed" : 3,
+      "passed" : 4,
       "unknown" : 0,
-      "total" : 11
+      "total" : 12
     },
     "items" : [ {
+      "uid" : "3c85c18639cfd070",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/13//#testresult/3c85c18639cfd070",
+      "status" : "passed",
+      "time" : {
+        "start" : 1698025351312,
+        "stop" : 1698025468244,
+        "duration" : 116932
+      }
+    }, {
       "uid" : "4c2b9ad828a4ef58",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/12//#testresult/4c2b9ad828a4ef58",
       "status" : "broken",
@@ -476,11 +512,20 @@
       "failed" : 4,
       "broken" : 0,
       "skipped" : 0,
-      "passed" : 7,
+      "passed" : 8,
       "unknown" : 0,
-      "total" : 11
+      "total" : 12
     },
     "items" : [ {
+      "uid" : "dbe1fb817ec41c78",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/13//#testresult/dbe1fb817ec41c78",
+      "status" : "passed",
+      "time" : {
+        "start" : 1698025464864,
+        "stop" : 1698025573503,
+        "duration" : 108639
+      }
+    }, {
       "uid" : "715e394a33eb57ca",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/12//#testresult/715e394a33eb57ca",
       "status" : "passed",
@@ -590,11 +635,20 @@
       "failed" : 4,
       "broken" : 4,
       "skipped" : 0,
-      "passed" : 3,
+      "passed" : 4,
       "unknown" : 0,
-      "total" : 11
+      "total" : 12
     },
     "items" : [ {
+      "uid" : "a5c6acc1e31990bd",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/13//#testresult/a5c6acc1e31990bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1698025351325,
+        "stop" : 1698025466445,
+        "duration" : 115120
+      }
+    }, {
       "uid" : "f4f02cce444bd014",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/12//#testresult/f4f02cce444bd014",
       "status" : "broken",
@@ -708,11 +762,20 @@
       "failed" : 4,
       "broken" : 4,
       "skipped" : 0,
-      "passed" : 3,
+      "passed" : 4,
       "unknown" : 0,
-      "total" : 11
+      "total" : 12
     },
     "items" : [ {
+      "uid" : "b7e6894efcd73b09",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/13//#testresult/b7e6894efcd73b09",
+      "status" : "passed",
+      "time" : {
+        "start" : 1698025481023,
+        "stop" : 1698025529036,
+        "duration" : 48013
+      }
+    }, {
       "uid" : "a35a67cc60bb0f93",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/12//#testresult/a35a67cc60bb0f93",
       "status" : "broken",
