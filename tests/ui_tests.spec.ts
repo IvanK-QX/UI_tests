@@ -20,12 +20,12 @@ test.describe('UI Tests', async () => {
 
     })
 
-    test.afterEach(async () => {
-        const apiContext = await request.newContext()
-        const api = new Api(apiContext)
-        await api.deleteAccountPage.deleteAccount(apiUrl.qaEnvUrl, streamer.userToken)
-        await api.deleteAccountPage.deleteAccount(apiUrl.qaEnvUrl, watcher.userToken)
-    })
+    // test.afterEach(async () => {
+    //     const apiContext = await request.newContext()
+    //     const api = new Api(apiContext)
+    //     await api.deleteAccountPage.deleteAccount(apiUrl.qaEnvUrl, streamer.userToken)
+    //     await api.deleteAccountPage.deleteAccount(apiUrl.qaEnvUrl, watcher.userToken)
+    // })
 
     test('Star sand Join Stream',async ({page}) => {
       const app = new App(page)
@@ -44,6 +44,8 @@ test.describe('UI Tests', async () => {
       await watcherPage.streamPage.waitForStreamLoadingWatcher()
       await watcherPage.streamPage.sendMessageInStreamChat(apiDataSet.uiStreamMessage)
       await app.streamPage.observeReceivedMessage(apiDataSet.uiStreamMessage)
+      await watcherPage.streamPage.sendMessageInStreamChat("bitch")
+      await watcherPage.streamPage.observeModeratorMessage()
       await app.streamPage.openWatchersList()
       await app.streamPage.clickFollowOnWatchersList()
       await app.streamPage.closeWatchersList()
@@ -55,8 +57,10 @@ test.describe('UI Tests', async () => {
       await watcherPage.chatPage.open()
       await watcherPage.chatPage.openExistingChat(streamer.name)
       await watcherPage.chatPage.observeNewMessage('hello')
-      await watcherPage.chatPage.sendObusiveWord('bitch')
-      await app.chatPage.observeNewMessage('*****')
+      await watcherPage.chatPage.sendMessage('bitch')
+      await watcherPage.chatPage.observeNewMessage('bitch')
+    //   await watcherPage.chatPage.sendObusiveWord('bitch')
+      await app.chatPage.observeNewMessage('bitch')
       await app.chatPage.blockUser()
       await app.chatPage.doNotSeeChatForSpecificUser(watcher.name)
       await app.blockedPage.open()

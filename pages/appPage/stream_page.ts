@@ -19,6 +19,10 @@ export class AppStreamPage {
         await this.page.keyboard.press('Enter')
     }
 
+    async observeModeratorMessage() {
+        await this.page.locator('div.chat-system-moderator-message').waitFor()
+    }
+
     async observeReceivedMessage(message: string) {
         await expect(this.page.getByText(message)).toBeVisible()
     }
