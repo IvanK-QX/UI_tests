@@ -2,13 +2,23 @@
   "6d6f3d7f43fc2f67f4b568e4f6f6d459:5bd835b0d6b1d4ada3b9f0db936e82c8" : {
     "statistic" : {
       "failed" : 4,
-      "broken" : 13,
+      "broken" : 14,
       "skipped" : 0,
       "passed" : 5,
       "unknown" : 0,
-      "total" : 22
+      "total" : 23
     },
     "items" : [ {
+      "uid" : "699a7a2c9ddb14b4",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/24//#testresult/699a7a2c9ddb14b4",
+      "status" : "broken",
+      "statusDetails" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.",
+      "time" : {
+        "start" : 1698151884456,
+        "stop" : 1698151989927,
+        "duration" : 105471
+      }
+    }, {
       "uid" : "199443e05a0121db",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/23//#testresult/199443e05a0121db",
       "status" : "broken",
@@ -194,28 +204,28 @@
         "stop" : 1697790115776,
         "duration" : 422
       }
-    }, {
-      "uid" : "954572b02af744fe",
-      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/6//#testresult/954572b02af744fe",
-      "status" : "failed",
-      "statusDetails" : "browserType.launch: Executable doesn't exist at /home/runner/.cache/ms-playwright/chromium-1084/chrome-linux/chrome\n╔═════════════════════════════════════════════════════════════════════════╗\n║ Looks like Playwright Test or Playwright was just installed or updated. ║\n║ Please run the following command to download new browsers:              ║\n║                                                                         ║\n║     npx playwright install                                              ║\n║                                                                         ║\n║ <3 Playwright Team                                                      ║\n╚═════════════════════════════════════════════════════════════════════════╝",
-      "time" : {
-        "start" : 1697789801907,
-        "stop" : 1697789802352,
-        "duration" : 445
-      }
     } ]
   },
   "a9066149f0ef714b9ec2c4b374f58568:5bd835b0d6b1d4ada3b9f0db936e82c8" : {
     "statistic" : {
       "failed" : 4,
-      "broken" : 13,
+      "broken" : 14,
       "skipped" : 0,
       "passed" : 5,
       "unknown" : 0,
-      "total" : 22
+      "total" : 23
     },
     "items" : [ {
+      "uid" : "6f87285bb4da70e5",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/24//#testresult/6f87285bb4da70e5",
+      "status" : "broken",
+      "statusDetails" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.",
+      "time" : {
+        "start" : 1698151876255,
+        "stop" : 1698151975515,
+        "duration" : 99260
+      }
+    }, {
       "uid" : "7e389fac91e90367",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/23//#testresult/7e389fac91e90367",
       "status" : "broken",
@@ -401,28 +411,28 @@
         "stop" : 1697790115485,
         "duration" : 363
       }
-    }, {
-      "uid" : "9e20a04a1830e732",
-      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/6//#testresult/9e20a04a1830e732",
-      "status" : "failed",
-      "statusDetails" : "browserType.launch: Executable doesn't exist at /home/runner/.cache/ms-playwright/chromium-1084/chrome-linux/chrome\n╔═════════════════════════════════════════════════════════════════════════╗\n║ Looks like Playwright Test or Playwright was just installed or updated. ║\n║ Please run the following command to download new browsers:              ║\n║                                                                         ║\n║     npx playwright install                                              ║\n║                                                                         ║\n║ <3 Playwright Team                                                      ║\n╚═════════════════════════════════════════════════════════════════════════╝",
-      "time" : {
-        "start" : 1697789802273,
-        "stop" : 1697789802564,
-        "duration" : 291
-      }
     } ]
   },
   "4908de1cd7b920a1ce6a9da0399443b8:5bd835b0d6b1d4ada3b9f0db936e82c8" : {
     "statistic" : {
       "failed" : 4,
-      "broken" : 13,
+      "broken" : 14,
       "skipped" : 0,
       "passed" : 5,
       "unknown" : 0,
-      "total" : 22
+      "total" : 23
     },
     "items" : [ {
+      "uid" : "61886290c59b61e1",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/24//#testresult/61886290c59b61e1",
+      "status" : "broken",
+      "statusDetails" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.",
+      "time" : {
+        "start" : 1698151880666,
+        "stop" : 1698151981214,
+        "duration" : 100548
+      }
+    }, {
       "uid" : "a42445afac4fc4ab",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/23//#testresult/a42445afac4fc4ab",
       "status" : "broken",
@@ -608,28 +618,28 @@
         "stop" : 1697790115798,
         "duration" : 335
       }
-    }, {
-      "uid" : "7f36cda8111e03e5",
-      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/6//#testresult/7f36cda8111e03e5",
-      "status" : "failed",
-      "statusDetails" : "browserType.launch: Executable doesn't exist at /home/runner/.cache/ms-playwright/chromium-1084/chrome-linux/chrome\n╔═════════════════════════════════════════════════════════════════════════╗\n║ Looks like Playwright Test or Playwright was just installed or updated. ║\n║ Please run the following command to download new browsers:              ║\n║                                                                         ║\n║     npx playwright install                                              ║\n║                                                                         ║\n║ <3 Playwright Team                                                      ║\n╚═════════════════════════════════════════════════════════════════════════╝",
-      "time" : {
-        "start" : 1697789801968,
-        "stop" : 1697789802415,
-        "duration" : 447
-      }
     } ]
   },
   "926a97bb627596c2b998f5c1162eecb5:5bd835b0d6b1d4ada3b9f0db936e82c8" : {
     "statistic" : {
       "failed" : 4,
-      "broken" : 12,
+      "broken" : 13,
       "skipped" : 0,
       "passed" : 6,
       "unknown" : 0,
-      "total" : 22
+      "total" : 23
     },
     "items" : [ {
+      "uid" : "1e9f81ddf0258160",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/24//#testresult/1e9f81ddf0258160",
+      "status" : "broken",
+      "statusDetails" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.",
+      "time" : {
+        "start" : 1698151876617,
+        "stop" : 1698151979845,
+        "duration" : 103228
+      }
+    }, {
       "uid" : "9e99fc8579cbbcbc",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/23//#testresult/9e99fc8579cbbcbc",
       "status" : "broken",
@@ -814,28 +824,28 @@
         "stop" : 1697790114936,
         "duration" : 302
       }
-    }, {
-      "uid" : "6b2d033da23e32f4",
-      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/6//#testresult/6b2d033da23e32f4",
-      "status" : "failed",
-      "statusDetails" : "browserType.launch: Executable doesn't exist at /home/runner/.cache/ms-playwright/chromium-1084/chrome-linux/chrome\n╔═════════════════════════════════════════════════════════════════════════╗\n║ Looks like Playwright Test or Playwright was just installed or updated. ║\n║ Please run the following command to download new browsers:              ║\n║                                                                         ║\n║     npx playwright install                                              ║\n║                                                                         ║\n║ <3 Playwright Team                                                      ║\n╚═════════════════════════════════════════════════════════════════════════╝",
-      "time" : {
-        "start" : 1697789801604,
-        "stop" : 1697789802117,
-        "duration" : 513
-      }
     } ]
   },
   "d33092aebfbf7b019088409ba95cb533:5bd835b0d6b1d4ada3b9f0db936e82c8" : {
     "statistic" : {
       "failed" : 6,
-      "broken" : 7,
+      "broken" : 8,
       "skipped" : 0,
       "passed" : 8,
       "unknown" : 0,
-      "total" : 21
+      "total" : 22
     },
     "items" : [ {
+      "uid" : "ab6aeaf021def869",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/24//#testresult/ab6aeaf021def869",
+      "status" : "broken",
+      "statusDetails" : "Test timeout of 60000ms exceeded.",
+      "time" : {
+        "start" : 1698152124252,
+        "stop" : 1698152191803,
+        "duration" : 67551
+      }
+    }, {
       "uid" : "daee226242ab8ca9",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/23//#testresult/daee226242ab8ca9",
       "status" : "broken",
@@ -1019,27 +1029,28 @@
         "stop" : 1697789807694,
         "duration" : 103
       }
-    }, {
-      "uid" : "e864eb77a02fc1ca",
-      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/4//#testresult/e864eb77a02fc1ca",
-      "status" : "passed",
-      "time" : {
-        "start" : 1697787467187,
-        "stop" : 1697787580222,
-        "duration" : 113035
-      }
     } ]
   },
   "798590bb7cc7b0da13030197e1b8b168:5bd835b0d6b1d4ada3b9f0db936e82c8" : {
     "statistic" : {
       "failed" : 4,
-      "broken" : 13,
+      "broken" : 14,
       "skipped" : 0,
       "passed" : 5,
       "unknown" : 0,
-      "total" : 22
+      "total" : 23
     },
     "items" : [ {
+      "uid" : "3a5d703d6e76aea0",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/24//#testresult/3a5d703d6e76aea0",
+      "status" : "broken",
+      "statusDetails" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.",
+      "time" : {
+        "start" : 1698151881973,
+        "stop" : 1698151984338,
+        "duration" : 102365
+      }
+    }, {
       "uid" : "55a425df82f652a5",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/23//#testresult/55a425df82f652a5",
       "status" : "broken",
@@ -1225,28 +1236,28 @@
         "stop" : 1697790115388,
         "duration" : 322
       }
-    }, {
-      "uid" : "ca66b4789f438acf",
-      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/6//#testresult/ca66b4789f438acf",
-      "status" : "failed",
-      "statusDetails" : "browserType.launch: Executable doesn't exist at /home/runner/.cache/ms-playwright/chromium-1084/chrome-linux/chrome\n╔═════════════════════════════════════════════════════════════════════════╗\n║ Looks like Playwright Test or Playwright was just installed or updated. ║\n║ Please run the following command to download new browsers:              ║\n║                                                                         ║\n║     npx playwright install                                              ║\n║                                                                         ║\n║ <3 Playwright Team                                                      ║\n╚═════════════════════════════════════════════════════════════════════════╝",
-      "time" : {
-        "start" : 1697789801555,
-        "stop" : 1697789801947,
-        "duration" : 392
-      }
     } ]
   },
   "3a4e66bd81eba05631f420c312082384:5bd835b0d6b1d4ada3b9f0db936e82c8" : {
     "statistic" : {
       "failed" : 4,
-      "broken" : 12,
+      "broken" : 13,
       "skipped" : 0,
       "passed" : 6,
       "unknown" : 0,
-      "total" : 22
+      "total" : 23
     },
     "items" : [ {
+      "uid" : "122427b631e279f1",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/24//#testresult/122427b631e279f1",
+      "status" : "broken",
+      "statusDetails" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.",
+      "time" : {
+        "start" : 1698151886856,
+        "stop" : 1698151992632,
+        "duration" : 105776
+      }
+    }, {
       "uid" : "de88595d8040fba6",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/23//#testresult/de88595d8040fba6",
       "status" : "broken",
@@ -1430,16 +1441,6 @@
         "start" : 1697790115496,
         "stop" : 1697790115754,
         "duration" : 258
-      }
-    }, {
-      "uid" : "c009e3240d58e663",
-      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/6//#testresult/c009e3240d58e663",
-      "status" : "failed",
-      "statusDetails" : "browserType.launch: Executable doesn't exist at /home/runner/.cache/ms-playwright/chromium-1084/chrome-linux/chrome\n╔═════════════════════════════════════════════════════════════════════════╗\n║ Looks like Playwright Test or Playwright was just installed or updated. ║\n║ Please run the following command to download new browsers:              ║\n║                                                                         ║\n║     npx playwright install                                              ║\n║                                                                         ║\n║ <3 Playwright Team                                                      ║\n╚═════════════════════════════════════════════════════════════════════════╝",
-      "time" : {
-        "start" : 1697789802061,
-        "stop" : 1697789802457,
-        "duration" : 396
       }
     } ]
   }

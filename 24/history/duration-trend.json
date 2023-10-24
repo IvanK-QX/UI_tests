@@ -1,0 +1,141 @@
+[ {
+  "buildOrder" : 24,
+  "reportUrl" : "https://IvanK-QX.github.io/UI_tests/24/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 315548
+  }
+}, {
+  "buildOrder" : 23,
+  "reportUrl" : "https://IvanK-QX.github.io/UI_tests/23/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 296049
+  }
+}, {
+  "buildOrder" : 21,
+  "reportUrl" : "https://IvanK-QX.github.io/UI_tests/21/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 325838
+  }
+}, {
+  "buildOrder" : 20,
+  "reportUrl" : "https://IvanK-QX.github.io/UI_tests/20/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 321191
+  }
+}, {
+  "buildOrder" : 19,
+  "reportUrl" : "https://IvanK-QX.github.io/UI_tests/19/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 347377
+  }
+}, {
+  "buildOrder" : 18,
+  "reportUrl" : "https://IvanK-QX.github.io/UI_tests/18/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 106582
+  }
+}, {
+  "buildOrder" : 18,
+  "reportUrl" : "https://IvanK-QX.github.io/UI_tests/18/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 310723
+  }
+}, {
+  "buildOrder" : 17,
+  "reportUrl" : "https://IvanK-QX.github.io/UI_tests/17/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 316671
+  }
+}, {
+  "buildOrder" : 16,
+  "reportUrl" : "https://IvanK-QX.github.io/UI_tests/16/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 314003
+  }
+}, {
+  "buildOrder" : 15,
+  "reportUrl" : "https://IvanK-QX.github.io/UI_tests/15/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 560415
+  }
+}, {
+  "buildOrder" : 14,
+  "reportUrl" : "https://IvanK-QX.github.io/UI_tests/14/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 407254
+  }
+}, {
+  "buildOrder" : 13,
+  "reportUrl" : "https://IvanK-QX.github.io/UI_tests/13/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 222191
+  }
+}, {
+  "buildOrder" : 12,
+  "reportUrl" : "https://IvanK-QX.github.io/UI_tests/12/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 256502
+  }
+}, {
+  "buildOrder" : 11,
+  "reportUrl" : "https://IvanK-QX.github.io/UI_tests/11/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 221480
+  }
+}, {
+  "buildOrder" : 10,
+  "reportUrl" : "https://IvanK-QX.github.io/UI_tests/10/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 215478
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "https://IvanK-QX.github.io/UI_tests/9/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 316082
+  }
+}, {
+  "buildOrder" : 9,
+  "reportUrl" : "https://IvanK-QX.github.io/UI_tests/9/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 308916
+  }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "https://IvanK-QX.github.io/UI_tests/6/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 5529
+  }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "https://IvanK-QX.github.io/UI_tests/6/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 5294
+  }
+}, {
+  "buildOrder" : 6,
+  "reportUrl" : "https://IvanK-QX.github.io/UI_tests/6/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 5648
+  }
+} ]

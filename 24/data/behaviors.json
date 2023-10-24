@@ -1,0 +1,96 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "Profile - Buy Coins",
+    "uid" : "6f87285bb4da70e5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1698151876255,
+      "stop" : 1698151975515,
+      "duration" : 99260
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chromium" ]
+  }, {
+    "name" : "Profile - My Info",
+    "uid" : "1e9f81ddf0258160",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1698151876617,
+      "stop" : 1698151979845,
+      "duration" : 103228
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chromium" ]
+  }, {
+    "name" : "Profile - Edit Profile",
+    "uid" : "61886290c59b61e1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1698151880666,
+      "stop" : 1698151981214,
+      "duration" : 100548
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chromium" ]
+  }, {
+    "name" : "Profile - Start Stream",
+    "uid" : "3a5d703d6e76aea0",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1698151881973,
+      "stop" : 1698151984338,
+      "duration" : 102365
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chromium" ]
+  }, {
+    "name" : "Profile - Redeem Cash",
+    "uid" : "699a7a2c9ddb14b4",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1698151884456,
+      "stop" : 1698151989927,
+      "duration" : 105471
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chromium" ]
+  }, {
+    "name" : "Profile - Edit Profile e2e",
+    "uid" : "122427b631e279f1",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1698151886856,
+      "stop" : 1698151992632,
+      "duration" : 105776
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chromium" ]
+  }, {
+    "name" : "Star sand Join Stream",
+    "uid" : "ab6aeaf021def869",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "broken",
+    "time" : {
+      "start" : 1698152124252,
+      "stop" : 1698152191803,
+      "duration" : 67551
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chromium" ]
+  } ],
+  "name" : "behaviors"
+}
