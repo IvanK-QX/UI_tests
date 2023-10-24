@@ -35,8 +35,8 @@ export class AppStreamPage {
     }
 
     async openWatchersList() {
-        await this.page.locator('span.stream-users-watch__avatar').waitFor()
-        await this.page.locator('span.stream-users-watch__avatar').click()
+        await this.page.locator('span.stream-users-watch__pin').waitFor()
+        await this.page.locator('span.stream-users-watch__pin').click()
         await this.page.locator('h3.user-info-list-modal__title').waitFor()
     }
 
