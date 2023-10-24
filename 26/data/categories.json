@@ -1,0 +1,112 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.",
+      "children" : [ {
+        "name" : "Profile - My Info",
+        "uid" : "797ecca3857898ff",
+        "parentUid" : "d2cd943d2252a4f6ddea3df34cb79abc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1698155375100,
+          "stop" : 1698155470292,
+          "duration" : 95192
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Start Stream",
+        "uid" : "a40f105c593138fa",
+        "parentUid" : "d2cd943d2252a4f6ddea3df34cb79abc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1698155375880,
+          "stop" : 1698155471626,
+          "duration" : 95746
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Edit Profile",
+        "uid" : "4f9bd254c0450991",
+        "parentUid" : "d2cd943d2252a4f6ddea3df34cb79abc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1698155375961,
+          "stop" : 1698155466535,
+          "duration" : 90574
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Buy Coins",
+        "uid" : "313828de7bfcf4a2",
+        "parentUid" : "d2cd943d2252a4f6ddea3df34cb79abc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1698155377880,
+          "stop" : 1698155468788,
+          "duration" : 90908
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Redeem Cash",
+        "uid" : "c0db7c67437bdcf1",
+        "parentUid" : "d2cd943d2252a4f6ddea3df34cb79abc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1698155379167,
+          "stop" : 1698155471217,
+          "duration" : 92050
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Edit Profile e2e",
+        "uid" : "ee8fc073f8c22684",
+        "parentUid" : "d2cd943d2252a4f6ddea3df34cb79abc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1698155382041,
+          "stop" : 1698155473191,
+          "duration" : 91150
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "d2cd943d2252a4f6ddea3df34cb79abc"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  }, {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "locator.click: Error: strict mode violation: getByRole('button', { name: 'Follow' }) resolved to 2 elements:\n    1) <button data-v-092cfaa2=\"\" data-v-f554adaa=\"\" class=\"ui-…>…</button> aka getByRole('button', { name: 'Follow' }).first()\n    2) <button data-v-092cfaa2=\"\" data-v-f554adaa=\"\" class=\"ui-…>…</button> aka getByRole('button', { name: 'Follow' }).nth(1)\n\n=========================== logs ===========================\nwaiting for getByRole('button', { name: 'Follow' })\n============================================================",
+      "children" : [ {
+        "name" : "Star sand Join Stream",
+        "uid" : "183d3564e41097fc",
+        "parentUid" : "493c46e34bd6852d5589a522cf8c5335",
+        "status" : "failed",
+        "time" : {
+          "start" : 1698155616459,
+          "stop" : 1698155677390,
+          "duration" : 60931
+        },
+        "flaky" : true,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "493c46e34bd6852d5589a522cf8c5335"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}
