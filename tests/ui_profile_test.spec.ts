@@ -2,7 +2,6 @@ import { request, test } from "@playwright/test";
 import { App } from "../pages/App";
 import { apiUrl } from "../utils/apiUrl";
 import { apiDataSet } from "../utils/dataSet";
-import { Api } from "../pages/Api";
 let user
 
 test.describe('UI - Profile Tests', async () => {
@@ -10,12 +9,6 @@ test.describe('UI - Profile Tests', async () => {
         const app = new App(page)
         user = await app.loginPage.apiLogin(apiUrl.qaEnvUrl)
         await app.profilePage.open()
-    })
-
-    test.afterEach(async () => {
-        const apiContext = await request.newContext()
-        const api = new Api(apiContext)
-        await api.deleteAccountPage.deleteAccount(apiUrl.qaEnvUrl, user.userToken)
     })
 
     test('Profile - My Info', async ({page}) => {

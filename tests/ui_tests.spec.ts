@@ -20,13 +20,6 @@ test.describe('UI Tests', async () => {
 
     })
 
-    test.afterEach(async () => {
-        const apiContext = await request.newContext()
-        const api = new Api(apiContext)
-        await api.deleteAccountPage.deleteAccount(apiUrl.qaEnvUrl, streamer.userToken)
-        await api.deleteAccountPage.deleteAccount(apiUrl.qaEnvUrl, watcher.userToken)
-    })
-
     test('Star sand Join Stream',async ({page}) => {
       const app = new App(page)
       const watcherPage = new App(newPage)
