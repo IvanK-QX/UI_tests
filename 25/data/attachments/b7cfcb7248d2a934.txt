@@ -1,0 +1,2 @@
+Guest with userID: 6537c2de89acf38ebfc84a7e logged into the app
+User email: api+243462@unitedtech.ai has been added
