@@ -4,6 +4,18 @@
   "reportName" : "Allure Report with history",
   "data" : {
     "failed" : 0,
+    "broken" : 6,
+    "skipped" : 0,
+    "passed" : 0,
+    "unknown" : 0,
+    "total" : 6
+  }
+}, {
+  "buildOrder" : 18,
+  "reportUrl" : "https://IvanK-QX.github.io/UI_tests/18/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "failed" : 0,
     "broken" : 7,
     "skipped" : 0,
     "passed" : 0,
@@ -217,18 +229,6 @@
 }, {
   "buildOrder" : 2,
   "reportUrl" : "https://IvanK-QX.github.io/UI_tests/2/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "failed" : 0,
-    "broken" : 0,
-    "skipped" : 0,
-    "passed" : 0,
-    "unknown" : 0,
-    "total" : 0
-  }
-}, {
-  "buildOrder" : 1,
-  "reportUrl" : "https://IvanK-QX.github.io/UI_tests/1/",
   "reportName" : "Allure Report with history",
   "data" : {
     "failed" : 0,

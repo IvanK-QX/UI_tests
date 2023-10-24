@@ -8,78 +8,78 @@
         "name" : "UI - Profile Tests",
         "children" : [ {
           "name" : "Profile - Edit Profile e2e",
-          "uid" : "5bb4a65eeaec8c8",
+          "uid" : "e903d88ab13a16b3",
           "parentUid" : "5a846286130a6de52fe28685493a3078",
           "status" : "broken",
           "time" : {
-            "start" : 1698134540446,
-            "stop" : 1698134641429,
-            "duration" : 100983
-          },
-          "flaky" : false,
-          "newFailed" : false,
-          "parameters" : [ "chromium" ]
-        }, {
-          "name" : "Profile - Redeem Cash",
-          "uid" : "650b00ba4a20e9a5",
-          "parentUid" : "5a846286130a6de52fe28685493a3078",
-          "status" : "broken",
-          "time" : {
-            "start" : 1698134541002,
-            "stop" : 1698134637458,
-            "duration" : 96456
+            "start" : 1698137903335,
+            "stop" : 1698138006792,
+            "duration" : 103457
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ "chromium" ]
         }, {
           "name" : "Profile - Edit Profile",
-          "uid" : "8bfbb917bc365ae8",
+          "uid" : "22b37222796944d2",
           "parentUid" : "5a846286130a6de52fe28685493a3078",
           "status" : "broken",
           "time" : {
-            "start" : 1698134543350,
-            "stop" : 1698134639719,
-            "duration" : 96369
-          },
-          "flaky" : false,
-          "newFailed" : false,
-          "parameters" : [ "chromium" ]
-        }, {
-          "name" : "Profile - Start Stream",
-          "uid" : "c6bde13d95e3376c",
-          "parentUid" : "5a846286130a6de52fe28685493a3078",
-          "status" : "broken",
-          "time" : {
-            "start" : 1698134543839,
-            "stop" : 1698134638210,
-            "duration" : 94371
+            "start" : 1698137904596,
+            "stop" : 1698138008989,
+            "duration" : 104393
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ "chromium" ]
         }, {
           "name" : "Profile - Buy Coins",
-          "uid" : "b2405e2305ba1829",
+          "uid" : "6f9a4f3cb591e157",
           "parentUid" : "5a846286130a6de52fe28685493a3078",
           "status" : "broken",
           "time" : {
-            "start" : 1698134543944,
-            "stop" : 1698134640156,
-            "duration" : 96212
+            "start" : 1698137905291,
+            "stop" : 1698138007592,
+            "duration" : 102301
           },
           "flaky" : false,
           "newFailed" : false,
           "parameters" : [ "chromium" ]
         }, {
           "name" : "Profile - My Info",
-          "uid" : "ba69c208a66822f2",
+          "uid" : "16fdd57201b8253c",
           "parentUid" : "5a846286130a6de52fe28685493a3078",
           "status" : "broken",
           "time" : {
-            "start" : 1698134549322,
-            "stop" : 1698134644413,
-            "duration" : 95091
+            "start" : 1698137906162,
+            "stop" : 1698138008104,
+            "duration" : 101942
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "chromium" ]
+        }, {
+          "name" : "Profile - Start Stream",
+          "uid" : "62080e2c9ec8c558",
+          "parentUid" : "5a846286130a6de52fe28685493a3078",
+          "status" : "broken",
+          "time" : {
+            "start" : 1698137907825,
+            "stop" : 1698138009917,
+            "duration" : 102092
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ "chromium" ]
+        }, {
+          "name" : "Profile - Redeem Cash",
+          "uid" : "5be2543d34bec01c",
+          "parentUid" : "5a846286130a6de52fe28685493a3078",
+          "status" : "broken",
+          "time" : {
+            "start" : 1698137910537,
+            "stop" : 1698138008437,
+            "duration" : 97900
           },
           "flaky" : false,
           "newFailed" : false,
@@ -88,27 +88,6 @@
         "uid" : "5a846286130a6de52fe28685493a3078"
       } ],
       "uid" : "947c59c49c214710703123558ef04cdc"
-    }, {
-      "name" : "ui_tests.spec.ts",
-      "children" : [ {
-        "name" : "UI Tests",
-        "children" : [ {
-          "name" : "Star sand Join Stream",
-          "uid" : "91c0ac9fcdfbd85a",
-          "parentUid" : "f97acfccb0284ff6d55d030a1bf38016",
-          "status" : "broken",
-          "time" : {
-            "start" : 1698134781551,
-            "stop" : 1698134851169,
-            "duration" : 69618
-          },
-          "flaky" : false,
-          "newFailed" : false,
-          "parameters" : [ "chromium" ]
-        } ],
-        "uid" : "f97acfccb0284ff6d55d030a1bf38016"
-      } ],
-      "uid" : "8a841ae01d229f383525e1ea59c56144"
     } ],
     "uid" : "36c900977e1d8b81a2c6893cc82bfc01"
   } ],

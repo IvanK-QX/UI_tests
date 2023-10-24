@@ -1,70 +1,60 @@
 [ {
-  "uid" : "8bfbb917bc365ae8",
+  "uid" : "22b37222796944d2",
   "name" : "Profile - Edit Profile",
   "time" : {
-    "start" : 1698134543350,
-    "stop" : 1698134639719,
-    "duration" : 96369
+    "start" : 1698137904596,
+    "stop" : 1698138008989,
+    "duration" : 104393
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "c6bde13d95e3376c",
-  "name" : "Profile - Start Stream",
-  "time" : {
-    "start" : 1698134543839,
-    "stop" : 1698134638210,
-    "duration" : 94371
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "650b00ba4a20e9a5",
-  "name" : "Profile - Redeem Cash",
-  "time" : {
-    "start" : 1698134541002,
-    "stop" : 1698134637458,
-    "duration" : 96456
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "91c0ac9fcdfbd85a",
-  "name" : "Star sand Join Stream",
-  "time" : {
-    "start" : 1698134781551,
-    "stop" : 1698134851169,
-    "duration" : 69618
-  },
-  "status" : "broken",
-  "severity" : "normal"
-}, {
-  "uid" : "ba69c208a66822f2",
+  "uid" : "16fdd57201b8253c",
   "name" : "Profile - My Info",
   "time" : {
-    "start" : 1698134549322,
-    "stop" : 1698134644413,
-    "duration" : 95091
+    "start" : 1698137906162,
+    "stop" : 1698138008104,
+    "duration" : 101942
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "b2405e2305ba1829",
-  "name" : "Profile - Buy Coins",
+  "uid" : "5be2543d34bec01c",
+  "name" : "Profile - Redeem Cash",
   "time" : {
-    "start" : 1698134543944,
-    "stop" : 1698134640156,
-    "duration" : 96212
+    "start" : 1698137910537,
+    "stop" : 1698138008437,
+    "duration" : 97900
   },
   "status" : "broken",
   "severity" : "normal"
 }, {
-  "uid" : "5bb4a65eeaec8c8",
+  "uid" : "62080e2c9ec8c558",
+  "name" : "Profile - Start Stream",
+  "time" : {
+    "start" : 1698137907825,
+    "stop" : 1698138009917,
+    "duration" : 102092
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "e903d88ab13a16b3",
   "name" : "Profile - Edit Profile e2e",
   "time" : {
-    "start" : 1698134540446,
-    "stop" : 1698134641429,
-    "duration" : 100983
+    "start" : 1698137903335,
+    "stop" : 1698138006792,
+    "duration" : 103457
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6f9a4f3cb591e157",
+  "name" : "Profile - Buy Coins",
+  "time" : {
+    "start" : 1698137905291,
+    "stop" : 1698138007592,
+    "duration" : 102301
   },
   "status" : "broken",
   "severity" : "normal"
