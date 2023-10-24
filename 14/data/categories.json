@@ -1,0 +1,26 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "locator.waitFor: Timeout 20000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('span.chat-message__text').filter({ hasText: '*****' }) to be visible\n============================================================",
+      "children" : [ {
+        "name" : "Star sand Join Stream",
+        "uid" : "7264e0584ae8f440",
+        "parentUid" : "9e18044dadb3a18041bbe93a38667177",
+        "status" : "failed",
+        "time" : {
+          "start" : 1698112020659,
+          "stop" : 1698112110776,
+          "duration" : 90117
+        },
+        "flaky" : true,
+        "newFailed" : true,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "9e18044dadb3a18041bbe93a38667177"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}
