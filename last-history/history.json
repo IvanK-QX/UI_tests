@@ -2,13 +2,23 @@
   "6d6f3d7f43fc2f67f4b568e4f6f6d459:5bd835b0d6b1d4ada3b9f0db936e82c8" : {
     "statistic" : {
       "failed" : 4,
-      "broken" : 4,
+      "broken" : 5,
       "skipped" : 0,
       "passed" : 5,
       "unknown" : 0,
-      "total" : 13
+      "total" : 14
     },
     "items" : [ {
+      "uid" : "a171fcd9359d0029",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/15//#testresult/a171fcd9359d0029",
+      "status" : "broken",
+      "statusDetails" : "Test finished within timeout of 120000ms, but tearing down \"context\" ran out of time.\nPlease allow more time for the test, since teardown is attributed towards the test timeout budget.",
+      "time" : {
+        "start" : 1698130300995,
+        "stop" : 1698130436578,
+        "duration" : 135583
+      }
+    }, {
       "uid" : "182ce664b58658a4",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/14//#testresult/182ce664b58658a4",
       "status" : "passed",
@@ -138,13 +148,23 @@
   "a9066149f0ef714b9ec2c4b374f58568:5bd835b0d6b1d4ada3b9f0db936e82c8" : {
     "statistic" : {
       "failed" : 4,
-      "broken" : 4,
+      "broken" : 5,
       "skipped" : 0,
       "passed" : 5,
       "unknown" : 0,
-      "total" : 13
+      "total" : 14
     },
     "items" : [ {
+      "uid" : "6abbd7747c8c337d",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/15//#testresult/6abbd7747c8c337d",
+      "status" : "broken",
+      "statusDetails" : "Test finished within timeout of 120000ms, but tearing down \"context\" ran out of time.\nPlease allow more time for the test, since teardown is attributed towards the test timeout budget.",
+      "time" : {
+        "start" : 1698130294900,
+        "stop" : 1698130430194,
+        "duration" : 135294
+      }
+    }, {
       "uid" : "bb75190cac32436b",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/14//#testresult/bb75190cac32436b",
       "status" : "passed",
@@ -274,13 +294,23 @@
   "4908de1cd7b920a1ce6a9da0399443b8:5bd835b0d6b1d4ada3b9f0db936e82c8" : {
     "statistic" : {
       "failed" : 4,
-      "broken" : 4,
+      "broken" : 5,
       "skipped" : 0,
       "passed" : 5,
       "unknown" : 0,
-      "total" : 13
+      "total" : 14
     },
     "items" : [ {
+      "uid" : "e4d0bc52592a7d0f",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/15//#testresult/e4d0bc52592a7d0f",
+      "status" : "broken",
+      "statusDetails" : "Test finished within timeout of 120000ms, but tearing down \"context\" ran out of time.\nPlease allow more time for the test, since teardown is attributed towards the test timeout budget.",
+      "time" : {
+        "start" : 1698130298743,
+        "stop" : 1698130438069,
+        "duration" : 139326
+      }
+    }, {
       "uid" : "f4aa8488506bda0f",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/14//#testresult/f4aa8488506bda0f",
       "status" : "passed",
@@ -412,11 +442,20 @@
       "failed" : 4,
       "broken" : 4,
       "skipped" : 0,
-      "passed" : 5,
+      "passed" : 6,
       "unknown" : 0,
-      "total" : 13
+      "total" : 14
     },
     "items" : [ {
+      "uid" : "dc39d74328cc8417",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/15//#testresult/dc39d74328cc8417",
+      "status" : "passed",
+      "time" : {
+        "start" : 1698130120414,
+        "stop" : 1698130234439,
+        "duration" : 114025
+      }
+    }, {
       "uid" : "e8960c36efa7bd4d",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/14//#testresult/e8960c36efa7bd4d",
       "status" : "passed",
@@ -545,14 +584,24 @@
   },
   "d33092aebfbf7b019088409ba95cb533:5bd835b0d6b1d4ada3b9f0db936e82c8" : {
     "statistic" : {
-      "failed" : 5,
+      "failed" : 6,
       "broken" : 0,
       "skipped" : 0,
       "passed" : 8,
       "unknown" : 0,
-      "total" : 13
+      "total" : 14
     },
     "items" : [ {
+      "uid" : "6631cd60cb6657ba",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/15//#testresult/6631cd60cb6657ba",
+      "status" : "failed",
+      "statusDetails" : "locator.waitFor: Timeout 20000ms exceeded.\n=========================== logs ===========================\nwaiting for locator('span.chat-message__text').filter({ hasText: '*****' }) to be visible\n============================================================",
+      "time" : {
+        "start" : 1698130569375,
+        "stop" : 1698130680829,
+        "duration" : 111454
+      }
+    }, {
       "uid" : "7264e0584ae8f440",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/14//#testresult/7264e0584ae8f440",
       "status" : "failed",
@@ -679,13 +728,23 @@
   "798590bb7cc7b0da13030197e1b8b168:5bd835b0d6b1d4ada3b9f0db936e82c8" : {
     "statistic" : {
       "failed" : 4,
-      "broken" : 4,
+      "broken" : 5,
       "skipped" : 0,
       "passed" : 5,
       "unknown" : 0,
-      "total" : 13
+      "total" : 14
     },
     "items" : [ {
+      "uid" : "c3982a75c4ee5a0f",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/15//#testresult/c3982a75c4ee5a0f",
+      "status" : "broken",
+      "statusDetails" : "Test finished within timeout of 120000ms, but tearing down \"context\" ran out of time.\nPlease allow more time for the test, since teardown is attributed towards the test timeout budget.",
+      "time" : {
+        "start" : 1698130312166,
+        "stop" : 1698130448867,
+        "duration" : 136701
+      }
+    }, {
       "uid" : "5f00470cad672dd5",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/14//#testresult/5f00470cad672dd5",
       "status" : "passed",
@@ -817,11 +876,20 @@
       "failed" : 4,
       "broken" : 4,
       "skipped" : 0,
-      "passed" : 5,
+      "passed" : 6,
       "unknown" : 0,
-      "total" : 13
+      "total" : 14
     },
     "items" : [ {
+      "uid" : "3b10b3bfa74ddd83",
+      "reportUrl" : "https://IvanK-QX.github.io/UI_tests/15//#testresult/3b10b3bfa74ddd83",
+      "status" : "passed",
+      "time" : {
+        "start" : 1698130350794,
+        "stop" : 1698130469801,
+        "duration" : 119007
+      }
+    }, {
       "uid" : "6fc24ee647dd4c07",
       "reportUrl" : "https://IvanK-QX.github.io/UI_tests/14//#testresult/6fc24ee647dd4c07",
       "status" : "passed",
