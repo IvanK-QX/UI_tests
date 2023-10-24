@@ -33,7 +33,8 @@ export class AppLoginPage {
         const userToken = user.userToken
         const id = user.id,
         name = user.name
-        await this.page.goto('https://webclient.streamsqa.com/')
+        await this.page.goto('https://webclient.streamsqa.com/edit')
+        await this.page.waitForTimeout(500)
         return { userToken , id , name}
     }
        
