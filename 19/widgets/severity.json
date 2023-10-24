@@ -1,0 +1,71 @@
+[ {
+  "uid" : "b4c05e2a02753932",
+  "name" : "Profile - Edit Profile",
+  "time" : {
+    "start" : 1698138234547,
+    "stop" : 1698138341512,
+    "duration" : 106965
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4046cac2bde94bbc",
+  "name" : "Profile - Redeem Cash",
+  "time" : {
+    "start" : 1698138237904,
+    "stop" : 1698138342640,
+    "duration" : 104736
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "4a0aa95ff76a79d7",
+  "name" : "Profile - Buy Coins",
+  "time" : {
+    "start" : 1698138237578,
+    "stop" : 1698138346577,
+    "duration" : 108999
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2e5c7d6f456296a8",
+  "name" : "Profile - My Info",
+  "time" : {
+    "start" : 1698138231932,
+    "stop" : 1698138336046,
+    "duration" : 104114
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "de773318cd11e0c",
+  "name" : "Profile - Start Stream",
+  "time" : {
+    "start" : 1698138240819,
+    "stop" : 1698138344570,
+    "duration" : 103751
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2dc6d35b9e1e535d",
+  "name" : "Profile - Edit Profile e2e",
+  "time" : {
+    "start" : 1698138240231,
+    "stop" : 1698138339541,
+    "duration" : 99310
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "83f59a3634c21914",
+  "name" : "Star sand Join Stream",
+  "time" : {
+    "start" : 1698138503772,
+    "stop" : 1698138579309,
+    "duration" : 75537
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]
