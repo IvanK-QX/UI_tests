@@ -33,8 +33,7 @@ export class AppLoginPage {
         const userToken = user.userToken
         const id = user.id,
         name = user.name
-        await this.page.reload()
-        await this.page.waitForLoadState('networkidle')
+        await this.page.reload({waitUntil: 'domcontentloaded'})
         return { userToken , id , name}
     }
        
