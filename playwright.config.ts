@@ -26,7 +26,7 @@ const config: PlaywrightTestConfig = {
     screenshot: 'only-on-failure',
     trace: 'retain-on-failure',
     actionTimeout: 20000,
-    baseURL: 'https://webclient.streamsqa.com',
+    // baseURL: 'https://webclient.streamsqa.com',
   },
   
   // grep:[new RegExp("@smoke")],
