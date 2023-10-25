@@ -1,7 +1,0 @@
-Guest with userID: 653262011743d200e15f8dbe logged into the app
-User email: api+606705@unitedtech.ai has been added
-Guest with userID: 6532620fbe6c08b2aaa1affa logged into the app
-User email: api+706585@unitedtech.ai has been added
-User with id: 653262011743d200e15f8dbe is followed
-User Deleted
-User Deleted

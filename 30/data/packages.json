@@ -1,0 +1,96 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "Profile - My Info",
+    "uid" : "80d886c4eff74240",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1698218083955,
+      "stop" : 1698218119564,
+      "duration" : 35609
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chromium" ]
+  }, {
+    "name" : "Profile - Buy Coins",
+    "uid" : "bdd81e1fec498585",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1698218119565,
+      "stop" : 1698218161691,
+      "duration" : 42126
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chromium" ]
+  }, {
+    "name" : "Profile - Start Stream",
+    "uid" : "5b5b50557616b09b",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1698218161692,
+      "stop" : 1698218192491,
+      "duration" : 30799
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chromium" ]
+  }, {
+    "name" : "Profile - Edit Profile",
+    "uid" : "95e302ab784c1288",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1698218192491,
+      "stop" : 1698218227243,
+      "duration" : 34752
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chromium" ]
+  }, {
+    "name" : "Profile - Redeem Cash",
+    "uid" : "613e1a4e3592cbd7",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1698218227250,
+      "stop" : 1698218261539,
+      "duration" : 34289
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chromium" ]
+  }, {
+    "name" : "Star sand Join Stream",
+    "uid" : "fe74bd0ee2534f36",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "broken",
+    "time" : {
+      "start" : 1698218242230,
+      "stop" : 1698218311087,
+      "duration" : 68857
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chromium" ]
+  }, {
+    "name" : "Profile - Edit Profile e2e",
+    "uid" : "ea0f5dd890ae1411",
+    "parentUid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+    "status" : "passed",
+    "time" : {
+      "start" : 1698218261540,
+      "stop" : 1698218313743,
+      "duration" : 52203
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ "chromium" ]
+  } ],
+  "name" : "packages"
+}

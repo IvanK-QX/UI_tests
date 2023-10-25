@@ -1,0 +1,5 @@
+Guest with userID: 6538c0bf57873df4e7ced126 logged into the app
+User email: api+201270@unitedtech.ai has been added
+Guest with userID: 6538c0d10425e27897a779c3 logged into the app
+User email: api+965984@unitedtech.ai has been added
+User with id: 6538c0bf57873df4e7ced126 is followed

@@ -1,0 +1,134 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "children" : [ {
+    "name" : "fv-az812-924",
+    "children" : [ {
+      "name" : "fv-az812-924-2367-playwright-worker-0",
+      "children" : [ {
+        "name" : "Profile - Edit Profile e2e",
+        "uid" : "ea0f5dd890ae1411",
+        "parentUid" : "2d3a092bd8b0b2ac3e5e47ed038af16f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1698218261540,
+          "stop" : 1698218313743,
+          "duration" : 52203
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Edit Profile",
+        "uid" : "95e302ab784c1288",
+        "parentUid" : "2d3a092bd8b0b2ac3e5e47ed038af16f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1698218192491,
+          "stop" : 1698218227243,
+          "duration" : 34752
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - My Info",
+        "uid" : "80d886c4eff74240",
+        "parentUid" : "2d3a092bd8b0b2ac3e5e47ed038af16f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1698218083955,
+          "stop" : 1698218119564,
+          "duration" : 35609
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Buy Coins",
+        "uid" : "bdd81e1fec498585",
+        "parentUid" : "2d3a092bd8b0b2ac3e5e47ed038af16f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1698218119565,
+          "stop" : 1698218161691,
+          "duration" : 42126
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Start Stream",
+        "uid" : "5b5b50557616b09b",
+        "parentUid" : "2d3a092bd8b0b2ac3e5e47ed038af16f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1698218161692,
+          "stop" : 1698218192491,
+          "duration" : 30799
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Redeem Cash",
+        "uid" : "613e1a4e3592cbd7",
+        "parentUid" : "2d3a092bd8b0b2ac3e5e47ed038af16f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1698218227250,
+          "stop" : 1698218261539,
+          "duration" : 34289
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "2d3a092bd8b0b2ac3e5e47ed038af16f"
+    }, {
+      "name" : "fv-az812-924-2367-playwright-worker-1",
+      "children" : [ {
+        "name" : "Star sand Join Stream",
+        "uid" : "84a7475b63124359",
+        "parentUid" : "021a3b4fceff797afda1af3d343cad09",
+        "status" : "broken",
+        "time" : {
+          "start" : 1698218163969,
+          "stop" : 1698218236779,
+          "duration" : 72810
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Star sand Join Stream",
+        "uid" : "a81a64314aa1a660",
+        "parentUid" : "021a3b4fceff797afda1af3d343cad09",
+        "status" : "broken",
+        "time" : {
+          "start" : 1698218084003,
+          "stop" : 1698218158043,
+          "duration" : 74040
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Star sand Join Stream",
+        "uid" : "fe74bd0ee2534f36",
+        "parentUid" : "021a3b4fceff797afda1af3d343cad09",
+        "status" : "broken",
+        "time" : {
+          "start" : 1698218242230,
+          "stop" : 1698218311087,
+          "duration" : 68857
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "021a3b4fceff797afda1af3d343cad09"
+    } ],
+    "uid" : "239ad58f890b30a77dc0f02dfe13fe73"
+  } ],
+  "name" : "timeline"
+}
