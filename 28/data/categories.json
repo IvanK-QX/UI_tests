@@ -1,0 +1,108 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Test defects",
+    "children" : [ {
+      "name" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.",
+      "children" : [ {
+        "name" : "Profile - My Info",
+        "uid" : "e055e7b069e49ef5",
+        "parentUid" : "d2cd943d2252a4f6ddea3df34cb79abc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1698198269923,
+          "stop" : 1698198357945,
+          "duration" : 88022
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Edit Profile",
+        "uid" : "af2e0701a969e4a6",
+        "parentUid" : "d2cd943d2252a4f6ddea3df34cb79abc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1698198277954,
+          "stop" : 1698198365807,
+          "duration" : 87853
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Buy Coins",
+        "uid" : "5e1f11db13d24c94",
+        "parentUid" : "d2cd943d2252a4f6ddea3df34cb79abc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1698198278281,
+          "stop" : 1698198367245,
+          "duration" : 88964
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Redeem Cash",
+        "uid" : "a0e90401a94cc03a",
+        "parentUid" : "d2cd943d2252a4f6ddea3df34cb79abc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1698198278520,
+          "stop" : 1698198368071,
+          "duration" : 89551
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Edit Profile e2e",
+        "uid" : "3a366622f0bc38b8",
+        "parentUid" : "d2cd943d2252a4f6ddea3df34cb79abc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1698198282717,
+          "stop" : 1698198369301,
+          "duration" : 86584
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      }, {
+        "name" : "Profile - Start Stream",
+        "uid" : "1dabe142bd3eb9a7",
+        "parentUid" : "d2cd943d2252a4f6ddea3df34cb79abc",
+        "status" : "broken",
+        "time" : {
+          "start" : 1698198283018,
+          "stop" : 1698198369039,
+          "duration" : 86021
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "d2cd943d2252a4f6ddea3df34cb79abc"
+    }, {
+      "name" : "Test timeout of 60000ms exceeded.",
+      "children" : [ {
+        "name" : "Star sand Join Stream",
+        "uid" : "3f6106364d75d620",
+        "parentUid" : "9f397bf40462705ff48b2aa8f5984e10",
+        "status" : "broken",
+        "time" : {
+          "start" : 1698198505500,
+          "stop" : 1698198575126,
+          "duration" : 69626
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "chromium" ]
+      } ],
+      "uid" : "9f397bf40462705ff48b2aa8f5984e10"
+    } ],
+    "uid" : "bdbf199525818fae7a8651db9eafe741"
+  } ],
+  "name" : "categories"
+}
