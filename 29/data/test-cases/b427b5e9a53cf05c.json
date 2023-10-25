@@ -1,0 +1,973 @@
+{
+  "uid" : "b427b5e9a53cf05c",
+  "name" : "Profile - Buy Coins",
+  "fullName" : "ui_profile_test.spec.ts#UI - Profile Tests Profile - Buy Coins",
+  "historyId" : "a9066149f0ef714b9ec2c4b374f58568:5bd835b0d6b1d4ada3b9f0db936e82c8",
+  "time" : {
+    "start" : 1698214792107,
+    "stop" : 1698214886435,
+    "duration" : 94328
+  },
+  "status" : "broken",
+  "statusMessage" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.",
+  "statusTrace" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.\n    at /home/runner/work/UI_tests/UI_tests/tests/ui_profile_test.spec.ts:9:10",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "broken",
+    "statusMessage" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.",
+    "statusTrace" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.\n    at /home/runner/work/UI_tests/UI_tests/tests/ui_profile_test.spec.ts:9:10",
+    "steps" : [ {
+      "name" : "Before Hooks",
+      "time" : {
+        "start" : 1698214792132,
+        "stop" : 1698214875210,
+        "duration" : 83078
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "beforeEach hook",
+        "time" : {
+          "start" : 1698214792155,
+          "stop" : 1698214874896,
+          "duration" : 82741
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "fixture: browser",
+          "time" : {
+            "start" : 1698214792227,
+            "stop" : 1698214792806,
+            "duration" : 579
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "browserType.launch",
+            "time" : {
+              "start" : 1698214792247,
+              "stop" : 1698214792806,
+              "duration" : 559
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ ],
+            "parameters" : [ ],
+            "stepsCount" : 0,
+            "attachmentsCount" : 0,
+            "shouldDisplayMessage" : false,
+            "hasContent" : false
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 1,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        }, {
+          "name" : "fixture: context",
+          "time" : {
+            "start" : 1698214792815,
+            "stop" : 1698214792885,
+            "duration" : 70
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "browser.newContext",
+            "time" : {
+              "start" : 1698214792820,
+              "stop" : 1698214792832,
+              "duration" : 12
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ ],
+            "parameters" : [ ],
+            "stepsCount" : 0,
+            "attachmentsCount" : 0,
+            "shouldDisplayMessage" : false,
+            "hasContent" : false
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 1,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        }, {
+          "name" : "fixture: page",
+          "time" : {
+            "start" : 1698214792886,
+            "stop" : 1698214793059,
+            "duration" : 173
+          },
+          "status" : "passed",
+          "steps" : [ {
+            "name" : "browserContext.newPage",
+            "time" : {
+              "start" : 1698214792888,
+              "stop" : 1698214793059,
+              "duration" : 171
+            },
+            "status" : "passed",
+            "steps" : [ ],
+            "attachments" : [ ],
+            "parameters" : [ ],
+            "stepsCount" : 0,
+            "attachmentsCount" : 0,
+            "shouldDisplayMessage" : false,
+            "hasContent" : false
+          } ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 1,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : true
+        }, {
+          "name" : "apiRequest.newContext",
+          "time" : {
+            "start" : 1698214793063,
+            "stop" : 1698214793065,
+            "duration" : 2
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "page.goto(https://webclient.streamsqa.com/)",
+          "time" : {
+            "start" : 1698214793154,
+            "stop" : 1698214812778,
+            "duration" : 19624
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "page.waitForLoadState",
+          "time" : {
+            "start" : 1698214812789,
+            "stop" : 1698214812822,
+            "duration" : 33
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "apiRequest.newContext",
+          "time" : {
+            "start" : 1698214812904,
+            "stop" : 1698214812949,
+            "duration" : 45
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "apiRequestContext.post(https://streamsqa.com:3000/login)",
+          "time" : {
+            "start" : 1698214813026,
+            "stop" : 1698214813759,
+            "duration" : 733
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "apiResponse.json",
+          "time" : {
+            "start" : 1698214813760,
+            "stop" : 1698214813761,
+            "duration" : 1
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "expect.toBeTruthy",
+          "time" : {
+            "start" : 1698214813773,
+            "stop" : 1698214813774,
+            "duration" : 1
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "expect.toEqual",
+          "time" : {
+            "start" : 1698214813821,
+            "stop" : 1698214813822,
+            "duration" : 1
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "apiRequest.newContext",
+          "time" : {
+            "start" : 1698214813824,
+            "stop" : 1698214813881,
+            "duration" : 57
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "apiRequestContext.post(https://streamsqa.com:3000/login)",
+          "time" : {
+            "start" : 1698214813930,
+            "stop" : 1698214814300,
+            "duration" : 370
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "apiResponse.json",
+          "time" : {
+            "start" : 1698214814301,
+            "stop" : 1698214814302,
+            "duration" : 1
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "expect.toBeTruthy",
+          "time" : {
+            "start" : 1698214814306,
+            "stop" : 1698214814306,
+            "duration" : 0
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "expect.toEqual",
+          "time" : {
+            "start" : 1698214814306,
+            "stop" : 1698214814307,
+            "duration" : 1
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "page.evaluate",
+          "time" : {
+            "start" : 1698214814307,
+            "stop" : 1698214814439,
+            "duration" : 132
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "page.evaluate",
+          "time" : {
+            "start" : 1698214814441,
+            "stop" : 1698214814611,
+            "duration" : 170
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "page.evaluate",
+          "time" : {
+            "start" : 1698214814612,
+            "stop" : 1698214814662,
+            "duration" : 50
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "page.evaluate",
+          "time" : {
+            "start" : 1698214814664,
+            "stop" : 1698214814754,
+            "duration" : 90
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "page.goto(https://webclient.streamsqa.com/edit)",
+          "time" : {
+            "start" : 1698214814756,
+            "stop" : 1698214846340,
+            "duration" : 31584
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "page.waitForTimeout",
+          "time" : {
+            "start" : 1698214846376,
+            "stop" : 1698214847166,
+            "duration" : 790
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "page.goto(https://webclient.streamsqa.com/profile)",
+          "time" : {
+            "start" : 1698214847167,
+            "stop" : 1698214874373,
+            "duration" : 27206
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        }, {
+          "name" : "page.waitForLoadState",
+          "time" : {
+            "start" : 1698214874392,
+            "stop" : 1698214874896,
+            "duration" : 504
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 27,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "fixture: context",
+        "time" : {
+          "start" : 1698214874897,
+          "stop" : 1698214875065,
+          "duration" : 168
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "browser.newContext",
+          "time" : {
+            "start" : 1698214874899,
+            "stop" : 1698214874950,
+            "duration" : 51
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      }, {
+        "name" : "fixture: page",
+        "time" : {
+          "start" : 1698214875067,
+          "stop" : 1698214875209,
+          "duration" : 142
+        },
+        "status" : "passed",
+        "steps" : [ {
+          "name" : "browserContext.newPage",
+          "time" : {
+            "start" : 1698214875067,
+            "stop" : 1698214875209,
+            "duration" : 142
+          },
+          "status" : "passed",
+          "steps" : [ ],
+          "attachments" : [ ],
+          "parameters" : [ ],
+          "stepsCount" : 0,
+          "attachmentsCount" : 0,
+          "shouldDisplayMessage" : false,
+          "hasContent" : false
+        } ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 1,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 32,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "After Hooks",
+      "time" : {
+        "start" : 1698214852698,
+        "stop" : 1698214886414,
+        "duration" : 33716
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "page.screenshot",
+        "time" : {
+          "start" : 1698214852700,
+          "stop" : 1698214873768,
+          "duration" : 21068
+        },
+        "status" : "failed",
+        "statusMessage" : "page.screenshot: Timeout 5000ms exceeded.\n=========================== logs ===========================\ntaking page screenshot\n============================================================",
+        "statusTrace" : "TimeoutError: page.screenshot: Timeout 5000ms exceeded.\n=========================== logs ===========================\ntaking page screenshot\n============================================================\n",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : true,
+        "hasContent" : true
+      }, {
+        "name" : "fixture: page",
+        "time" : {
+          "start" : 1698214873769,
+          "stop" : 1698214873769,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "fixture: context",
+        "time" : {
+          "start" : 1698214873769,
+          "stop" : 1698214873769,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "fixture: page",
+        "time" : {
+          "start" : 1698214883498,
+          "stop" : 1698214883501,
+          "duration" : 3
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "fixture: context",
+        "time" : {
+          "start" : 1698214883501,
+          "stop" : 1698214883501,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      }, {
+        "name" : "fixture: browser",
+        "time" : {
+          "start" : 1698214886352,
+          "stop" : 1698214886414,
+          "duration" : 62
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 6,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "locator.getByRole('button', { name: 'Buy Coins' }).click",
+      "time" : {
+        "start" : 1698214875229
+      },
+      "status" : "unknown",
+      "steps" : [ {
+        "name" : "video.saveAs",
+        "time" : {
+          "start" : 1698214883487,
+          "stop" : 1698214883496,
+          "duration" : 9
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "locator.click: Page closed\n=========================== logs ===========================\nwaiting for getByRole('button', { name: 'Buy Coins' })\n============================================================",
+      "time" : {
+        "start" : 1698214886355,
+        "stop" : 1698214886355,
+        "duration" : 0
+      },
+      "status" : "failed",
+      "statusMessage" : "locator.click: Page closed\n=========================== logs ===========================\nwaiting for getByRole('button', { name: 'Buy Coins' })\n============================================================",
+      "statusTrace" : "\n    at AppProfilePage.clickBuyCoinsBtn (/home/runner/work/UI_tests/UI_tests/pages/appPage/profile_page.ts:53:32)\n    at /home/runner/work/UI_tests/UI_tests/tests/ui_profile_test.spec.ts:30:31",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : true,
+      "hasContent" : true
+    } ],
+    "attachments" : [ {
+      "uid" : "ff14c7a181d872dd",
+      "name" : "video",
+      "source" : "ff14c7a181d872dd.webm",
+      "type" : "video/webm",
+      "size" : 434234
+    }, {
+      "uid" : "114f257f212817eb",
+      "name" : "screenshot",
+      "source" : "114f257f212817eb.png",
+      "type" : "image/png",
+      "size" : 5320
+    }, {
+      "uid" : "642bcda360d02de3",
+      "name" : "trace",
+      "source" : "642bcda360d02de3.zip",
+      "type" : "application/zip",
+      "size" : 6631425
+    }, {
+      "uid" : "d30b5cec6988377f",
+      "name" : "stdout",
+      "source" : "d30b5cec6988377f.txt",
+      "type" : "text/plain",
+      "size" : 116
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 43,
+    "attachmentsCount" : 4,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "language",
+    "value" : "JavaScript"
+  }, {
+    "name" : "framework",
+    "value" : "Playwright"
+  }, {
+    "name" : "titlePath",
+    "value" : " > chromium > ui_profile_test.spec.ts > UI - Profile Tests"
+  }, {
+    "name" : "host",
+    "value" : "fv-az565-376"
+  }, {
+    "name" : "thread",
+    "value" : "fv-az565-376-2349-playwright-worker-1"
+  }, {
+    "name" : "parentSuite",
+    "value" : "chromium"
+  }, {
+    "name" : "suite",
+    "value" : "ui_profile_test.spec.ts"
+  }, {
+    "name" : "subSuite",
+    "value" : "UI - Profile Tests"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "Project",
+    "value" : "chromium"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "26c9a1f3154e07cd",
+      "status" : "broken",
+      "statusDetails" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.",
+      "time" : {
+        "start" : 1698214701046,
+        "stop" : 1698214784283,
+        "duration" : 83237
+      }
+    }, {
+      "uid" : "645e62507b0e004f",
+      "status" : "broken",
+      "statusDetails" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.",
+      "time" : {
+        "start" : 1698214608724,
+        "stop" : 1698214693853,
+        "duration" : 85129
+      }
+    } ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "history" : {
+      "statistic" : {
+        "failed" : 4,
+        "broken" : 19,
+        "skipped" : 0,
+        "passed" : 5,
+        "unknown" : 0,
+        "total" : 28
+      },
+      "items" : [ {
+        "uid" : "5e1f11db13d24c94",
+        "reportUrl" : "https://IvanK-QX.github.io/UI_tests/28//#testresult/5e1f11db13d24c94",
+        "status" : "broken",
+        "statusDetails" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.",
+        "time" : {
+          "start" : 1698198278281,
+          "stop" : 1698198367245,
+          "duration" : 88964
+        }
+      }, {
+        "uid" : "9245deae3bb6a1eb",
+        "reportUrl" : "https://IvanK-QX.github.io/UI_tests/27//#testresult/9245deae3bb6a1eb",
+        "status" : "broken",
+        "statusDetails" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.",
+        "time" : {
+          "start" : 1698156798050,
+          "stop" : 1698156880474,
+          "duration" : 82424
+        }
+      }, {
+        "uid" : "313828de7bfcf4a2",
+        "reportUrl" : "https://IvanK-QX.github.io/UI_tests/26//#testresult/313828de7bfcf4a2",
+        "status" : "broken",
+        "statusDetails" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.",
+        "time" : {
+          "start" : 1698155377880,
+          "stop" : 1698155468788,
+          "duration" : 90908
+        }
+      }, {
+        "uid" : "f368b950acc6f081",
+        "reportUrl" : "https://IvanK-QX.github.io/UI_tests/25//#testresult/f368b950acc6f081",
+        "status" : "broken",
+        "statusDetails" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.",
+        "time" : {
+          "start" : 1698153252512,
+          "stop" : 1698153348879,
+          "duration" : 96367
+        }
+      }, {
+        "uid" : "6f87285bb4da70e5",
+        "reportUrl" : "https://IvanK-QX.github.io/UI_tests/24//#testresult/6f87285bb4da70e5",
+        "status" : "broken",
+        "statusDetails" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.",
+        "time" : {
+          "start" : 1698151876255,
+          "stop" : 1698151975515,
+          "duration" : 99260
+        }
+      }, {
+        "uid" : "7e389fac91e90367",
+        "reportUrl" : "https://IvanK-QX.github.io/UI_tests/23//#testresult/7e389fac91e90367",
+        "status" : "broken",
+        "statusDetails" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.",
+        "time" : {
+          "start" : 1698151252190,
+          "stop" : 1698151345026,
+          "duration" : 92836
+        }
+      }, {
+        "uid" : "bcb7a687d59324bf",
+        "reportUrl" : "https://IvanK-QX.github.io/UI_tests/21//#testresult/bcb7a687d59324bf",
+        "status" : "broken",
+        "statusDetails" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.",
+        "time" : {
+          "start" : 1698148288674,
+          "stop" : 1698148384144,
+          "duration" : 95470
+        }
+      }, {
+        "uid" : "f388ca6449e4d99e",
+        "reportUrl" : "https://IvanK-QX.github.io/UI_tests/20//#testresult/f388ca6449e4d99e",
+        "status" : "broken",
+        "statusDetails" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.",
+        "time" : {
+          "start" : 1698146314362,
+          "stop" : 1698146422360,
+          "duration" : 107998
+        }
+      }, {
+        "uid" : "4a0aa95ff76a79d7",
+        "reportUrl" : "https://IvanK-QX.github.io/UI_tests/19//#testresult/4a0aa95ff76a79d7",
+        "status" : "broken",
+        "statusDetails" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.",
+        "time" : {
+          "start" : 1698138237578,
+          "stop" : 1698138346577,
+          "duration" : 108999
+        }
+      }, {
+        "uid" : "6f9a4f3cb591e157",
+        "reportUrl" : "https://IvanK-QX.github.io/UI_tests/18//#testresult/6f9a4f3cb591e157",
+        "status" : "broken",
+        "statusDetails" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.",
+        "time" : {
+          "start" : 1698137905291,
+          "stop" : 1698138007592,
+          "duration" : 102301
+        }
+      }, {
+        "uid" : "b2405e2305ba1829",
+        "reportUrl" : "https://IvanK-QX.github.io/UI_tests/18//#testresult/b2405e2305ba1829",
+        "status" : "broken",
+        "statusDetails" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.",
+        "time" : {
+          "start" : 1698134543944,
+          "stop" : 1698134640156,
+          "duration" : 96212
+        }
+      }, {
+        "uid" : "86090a298f5148d6",
+        "reportUrl" : "https://IvanK-QX.github.io/UI_tests/17//#testresult/86090a298f5148d6",
+        "status" : "broken",
+        "statusDetails" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.",
+        "time" : {
+          "start" : 1698133425746,
+          "stop" : 1698133522999,
+          "duration" : 97253
+        }
+      }, {
+        "uid" : "f34db84dd8af4da5",
+        "reportUrl" : "https://IvanK-QX.github.io/UI_tests/16//#testresult/f34db84dd8af4da5",
+        "status" : "broken",
+        "statusDetails" : "Test timeout of 60000ms exceeded while running \"beforeEach\" hook.",
+        "time" : {
+          "start" : 1698130988923,
+          "stop" : 1698131083393,
+          "duration" : 94470
+        }
+      }, {
+        "uid" : "6abbd7747c8c337d",
+        "reportUrl" : "https://IvanK-QX.github.io/UI_tests/15//#testresult/6abbd7747c8c337d",
+        "status" : "broken",
+        "statusDetails" : "Test finished within timeout of 120000ms, but tearing down \"context\" ran out of time.\nPlease allow more time for the test, since teardown is attributed towards the test timeout budget.",
+        "time" : {
+          "start" : 1698130294900,
+          "stop" : 1698130430194,
+          "duration" : 135294
+        }
+      }, {
+        "uid" : "bb75190cac32436b",
+        "reportUrl" : "https://IvanK-QX.github.io/UI_tests/14//#testresult/bb75190cac32436b",
+        "status" : "passed",
+        "time" : {
+          "start" : 1698111703598,
+          "stop" : 1698111813511,
+          "duration" : 109913
+        }
+      }, {
+        "uid" : "7477847c9dfed16a",
+        "reportUrl" : "https://IvanK-QX.github.io/UI_tests/13//#testresult/7477847c9dfed16a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1698025351540,
+          "stop" : 1698025469722,
+          "duration" : 118182
+        }
+      }, {
+        "uid" : "a803225aaef9dfdb",
+        "reportUrl" : "https://IvanK-QX.github.io/UI_tests/12//#testresult/a803225aaef9dfdb",
+        "status" : "broken",
+        "statusDetails" : "Test timeout of 120000ms exceeded.",
+        "time" : {
+          "start" : 1697939540531,
+          "stop" : 1697939703769,
+          "duration" : 163238
+        }
+      }, {
+        "uid" : "96ee882100e0ff02",
+        "reportUrl" : "https://IvanK-QX.github.io/UI_tests/11//#testresult/96ee882100e0ff02",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697852438393,
+          "stop" : 1697852555255,
+          "duration" : 116862
+        }
+      }, {
+        "uid" : "46c7e1b075e7a2f0",
+        "reportUrl" : "https://IvanK-QX.github.io/UI_tests/10//#testresult/46c7e1b075e7a2f0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1697801262230,
+          "stop" : 1697801371635,
+          "duration" : 109405
+        }
+      }, {
+        "uid" : "bbd27ef2e46d955b",
+        "reportUrl" : "https://IvanK-QX.github.io/UI_tests/9//#testresult/bbd27ef2e46d955b",
+        "status" : "broken",
+        "statusDetails" : "Test timeout of 120000ms exceeded while running \"beforeEach\" hook.",
+        "time" : {
+          "start" : 1697800509364,
+          "stop" : 1697800701391,
+          "duration" : 192027
+        }
+      } ]
+    },
+    "tags" : [ ]
+  },
+  "source" : "b427b5e9a53cf05c.json",
+  "parameterValues" : [ "chromium" ]
+}

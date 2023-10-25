@@ -1,4 +1,11 @@
 [ {
+  "buildOrder" : 29,
+  "reportUrl" : "https://IvanK-QX.github.io/UI_tests/29/",
+  "reportName" : "Allure Report with history",
+  "data" : {
+    "duration" : 310647
+  }
+}, {
   "buildOrder" : 28,
   "reportUrl" : "https://IvanK-QX.github.io/UI_tests/28/",
   "reportName" : "Allure Report with history",
@@ -130,12 +137,5 @@
   "reportName" : "Allure Report with history",
   "data" : {
     "duration" : 215478
-  }
-}, {
-  "buildOrder" : 9,
-  "reportUrl" : "https://IvanK-QX.github.io/UI_tests/9/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 316082
   }
 } ]
